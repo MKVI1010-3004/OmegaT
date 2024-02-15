@@ -44439,6 +44439,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This operation may take some time.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240215T135944Z" creationid="pia" creationdate="20240215T135944Z">
+        <seg>Tämä voi kestää hetkisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T094620Z" creationid="piav" creationdate="20191030T094620Z">
