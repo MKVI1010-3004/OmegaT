@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_a8d2077" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10188,6 +10188,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T112456Z" creationid="piav" creationdate="20191202T112406Z">
         <seg>Napsauta painiketta &lt;g1&gt;Kopioi tiedostoja lähdekansioon…&lt;/g1&gt;, niin pääset valitsemaan käännettävät lähdetiedostosi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;l0/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="pia" changedate="20240215T131228Z" creationid="pia" creationdate="20240215T131228Z">
+        <seg>&lt;l0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
