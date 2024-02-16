@@ -48728,6 +48728,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Welcome to OmegaT, a computer-assisted translation (CAT) tool that offers great flexibility, performance and robustness, as well as features beyond those of commercial offerings, even for beginning translators.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240216T094809Z" creationid="Hanne" creationdate="20240216T094809Z">
+        <seg>Tervetuloa käyttämään OmegaT-ohjelmaa, tietokoneavusteista kääntämisen (CAT) työkalua, joka tarjoaa valinnanvaraa, toimivuutta ja ??? erityisominaisuuksia niin aloittelevien kääntäjien kuin kokoneiden konkarienkin tarpeisiin. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Well, have you considered learning?</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T072714Z" creationid="piav" creationdate="20191210T184140Z">
