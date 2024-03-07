@@ -3830,6 +3830,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;In this manual:&lt;/e0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;E&lt;/k3&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114424Z" creationid="Hanne" creationdate="20240307T114424Z">
+        <seg>Tässä käyttöoppaassa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T121319Z" creationid="piav" creationdate="20191129T121319Z">
@@ -20772,6 +20780,14 @@ avulla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have not yet installed OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114518Z" creationid="Hanne" creationdate="20240307T114445Z">
+        <seg>Jos et vielä ole asentanut OmegaT:tä, lue &lt;l0/&gt; ohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145406Z" creationid="piav" creationdate="20191202T145406Z">
@@ -23798,6 +23814,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171218T122923Z" creationid="PiaVee" creationdate="20171218T122841Z">
         <seg>Näppäinyhdistelmä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key modifiers are identified by a single letter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114406Z" creationid="Hanne" creationdate="20240307T114406Z">
+        <seg>Muuntonäppäimiä kuvaa yksittäiset kirjaimet.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45310,6 +45334,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid duplicating shortcut descriptions, we use single letters as a common identifier for modifiers.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114351Z" creationid="Hanne" creationdate="20240307T114351Z">
+        <seg>Välttääksemme pikanäppäinten kuvauksien toistoa, käytämme yksittäisiä kirjaimia muuntonäppäinten tunnistamisessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To avoid losing important data:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T135014Z" creationid="piav" creationdate="20191127T135010Z">
@@ -45632,6 +45664,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To learn how to launch OmegaT, see the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114511Z" creationid="Hanne" creationdate="20240307T114511Z">
+        <seg>Käynnistääksesi OmegaT:n, lue &lt;l0/&gt; ohjeet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T115844Z" creationid="PiaVee" creationdate="20171014T115844Z">
@@ -45796,6 +45836,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220821T081039Z" creationid="piav" creationdate="20191202T111721Z">
         <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti. Kaikki tarvitsemasi tiedostot kuten lähdetiedostot, käännösmuistit ja sanastot löytyvät projektista, ja sinne tulee lopulta myös kääntämäsi tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT, you first have to create a project to hold all your files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114552Z" creationid="Hanne" creationdate="20240307T114552Z">
+        <seg>Ensimmäisellä OmegaT-käyttökerralla sinun on luotava projekti tiedostojen tallentamiseen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47892,6 +47940,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202819Z" creationid="piav" creationdate="20231030T202819Z">
         <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin näet tiedoston sisällön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;, and select an empty folder or create a new one with the name of your project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114622Z" creationid="Hanne" creationdate="20240307T114622Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt; ja valitse joko tyhjä kansio tai luo uusi kansio haluamallasi projektinimellä.</seg>
       </tuv>
     </tu>
     <tu>
