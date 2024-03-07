@@ -25372,6 +25372,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make sure that you enter the correct languages and that all other locations requiring a language code match the code you assign here.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T115943Z" creationid="Hanne" creationdate="20240307T115943Z">
+        <seg>Varmista, että määrität oikeat kielet myös kaikkiin muihin projektin sijanteihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make sure that you have a free Microsoft account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T121952Z" creationid="piav" creationdate="20191201T121952Z">
@@ -35968,6 +35976,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120005Z" creationid="Hanne" creationdate="20240307T115952Z">
+        <seg>Lue lisää &lt;l0/&gt; Yksityiskohdat-osiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; window for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230425T134742Z" creationid="piav" creationdate="20230425T134659Z">
@@ -39974,8 +39990,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T114723Z" creationid="Hanne" creationdate="20240307T114723Z">
-        <seg>&lt;l0/&gt; dialogi avautuu projektin nimeämisen jälkeen.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120110Z" creationid="Hanne" creationdate="20240307T114723Z">
+        <seg>&lt;l0/&gt; -näkymä avautuu projektin nimeämisen jälkeen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47944,6 +47960,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to come back to this dialog after you have created the project,.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120057Z" creationid="Hanne" creationdate="20240307T120057Z">
+        <seg>Napsauta &lt;l0/&gt;&lt;l1/&gt; palataksesi tähän näkymään projektin luonnin jälkeen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20240215T130135Z" creationid="piav" creationdate="20240215T130135Z">
@@ -50767,6 +50791,14 @@ sarjaa linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T100826Z" creationid="piav" creationdate="20191201T100736Z">
         <seg>Voit muokata OmegaT:n käyttäytymistä sekä &lt;e0&gt;Asetukset&lt;/e0&gt;-kohdassa että muokkaamalla paketin &lt;f1&gt;Configuration.properties&lt;/f1&gt;-tietoa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of a project at any time after you have started translating.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120156Z" creationid="Hanne" creationdate="20240307T120156Z">
+        <seg>Voit missä tahansa vaiheessa muuttaa projektin rakennetta aloitettuasi kääntämisen.</seg>
       </tuv>
     </tu>
     <tu>
