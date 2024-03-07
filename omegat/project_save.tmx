@@ -10216,6 +10216,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110517Z" creationid="Hanne" creationdate="20240307T110517Z">
+        <seg>Napsauta &lt;l0/&gt; näppäintä saadaksesi näkyville URL-osoitteessa saatavilla olevat sanastot &lt;g1&gt;URL:n ladattavat kielentarkistussanastot&lt;/g1&gt; valikosta. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T093930Z" creationid="piav" creationdate="20191201T093930Z">
@@ -43438,6 +43446,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T163201Z" creationid="piav" creationdate="20230511T163201Z">
         <seg>Ne ovat erillisiä yksiköitään, jotka eivät ole fyysisesti yhteydessä itse OmegaT-sovellukseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110217Z" creationid="Hanne" creationdate="20240307T110217Z">
+        <seg>Apuvälineistä voit myös löytää rinnakkaiskäännösmuisteja, sanastoja ja muita rinnakkaistekstejä.</seg>
       </tuv>
     </tu>
     <tu>
