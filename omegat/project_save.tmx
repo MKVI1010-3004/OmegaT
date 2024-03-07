@@ -21671,6 +21671,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that dialog, select or enter the languages of your source and translated files, set the various options, and click on &lt;g0&gt;OK&lt;/g0&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T115504Z" creationid="Hanne" creationdate="20240307T115504Z">
+        <seg>Valitse tai lisää lähtö- ja kohdetiedostojesi kielet, säädä asetuksia ja painata &lt;g0&gt;OK&lt;/g0&gt;-painiketta jatkaaksesi eteenpäin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T093854Z" creationid="piav" creationdate="20191201T093756Z">
@@ -29349,6 +29357,14 @@ käynnistettäväksi.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T183440Z" creationid="pia" creationdate="20240213T183440Z">
         <seg>OmegaT-projekteja &lt;s2&gt;&lt;e3&gt;ei&lt;/e3&gt;&lt;/s2&gt; ole tallennettu ohjelman sisälle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides a convenient short list of two-letter language codes, but you can type any code that conforms to &lt;u0&gt;BCP-47&lt;/u0&gt; (including the three-letter language codes) into the appropriate field.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T115843Z" creationid="Hanne" creationdate="20240307T115843Z">
+        <seg>OmegaT:ssä on käytössä kätevä ja lyhyt kaksimerkkisten kielikoodien lista, mutta voit laittaa sopivaan kenttään minkä tahansa kielikoodin, joka on &lt;u0&gt;BCP-47&lt;/u0&gt;-vaatimusten mukainen (mukaan lukien kolmimerkkiset kielikoodit).  </seg>
       </tuv>
     </tu>
     <tu>
