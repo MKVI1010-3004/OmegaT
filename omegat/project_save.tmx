@@ -25148,6 +25148,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Made for translators</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111527Z" creationid="Hanne" creationdate="20240307T111527Z">
+        <seg>Kääntäjille tehty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190527T165144Z" creationid="piav" creationdate="20190527T165144Z">
@@ -29009,6 +29017,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T095313Z" creationid="piav" creationdate="20191211T095313Z">
         <seg>OmegaT on lisensoitu GNU General Public Licencen (GNU GPL) eli GNU-hankkeen yleisellä lisenssillä, jonka julkaisija on Free Software Foundation. Lisenssin versionumero on 3 tai (niin halutessasi) sitä uudempi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is designed not only to facilitate the translation process, but also to ensure the translator does not have to worry about losing data.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111634Z" creationid="Hanne" creationdate="20240307T111634Z">
+        <seg>OmegaT:n tarkoituksena ei ole ainoastaan avustaa käännösprosessissa, vaan myös varmistaa, ettei kääntäjän tarvitse murehtia datan menettämisestä.</seg>
       </tuv>
     </tu>
     <tu>
