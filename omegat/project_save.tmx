@@ -10248,6 +10248,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;l0/&gt; or &lt;l1/&gt; and add source files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120430Z" creationid="Hanne" creationdate="20240307T120430Z">
+        <seg>Napsauta &lt;l0/&gt; tai &lt;l1/&gt; -painikkeita ja lisää lähdetiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;l0/&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240215T131228Z" creationid="pia" creationdate="20240215T131228Z">
@@ -21743,6 +21751,14 @@ kaksoisnapsauta sitä.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the dialog, just tell OmegaT what new resource folders to use.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120258Z" creationid="Hanne" creationdate="20240307T120258Z">
+        <seg>Näkymässä voit asettaa uudet käytettävät tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T123925Z" creationid="piav" creationdate="20191208T123853Z">
@@ -23350,6 +23366,14 @@ itself on the first run.</seg>
       <tuv lang="fi" changeid="piav" changedate="20191211T100911Z" creationid="piav" creationdate="20191211T100911Z">
         <seg>Tämä asentaa ohjelman ensimmäisen käytön yhteydessä sopivan ympäristön
 sekä koneellesi että ohjelmaa varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will then just ask you to reload the project and start using the new locations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120403Z" creationid="Hanne" creationdate="20240307T120403Z">
+        <seg>OmegaT pyytää sinua uudelleenlataamaan projektin, jonka jälkeen pääset käyttämään uusia sijainteja.</seg>
       </tuv>
     </tu>
     <tu>
