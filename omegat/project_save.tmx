@@ -7404,8 +7404,8 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
       <tuv lang="en">
         <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T112438Z" creationid="Hanne" creationdate="20240307T112438Z">
-        <seg>Ennen kuin sinun tarvitsee edes tukeutua näihin ohjeisiin, OmegaT antaa sinun keskittyä kääntämiseen ja taitojesi kehittämiseen kääntäjänä.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112446Z" creationid="Hanne" creationdate="20240307T112438Z">
+        <seg>Ennen kuin sinun tarvitsee edes tukeutua näihin ohjeisiin, OmegaT antaa sinun keskittyä kääntämiseen ja toivottavasti myös taitojesi kehittämiseen kääntäjänä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11109,6 +11109,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T174113Z" creationid="piav" creationdate="20191210T174038Z">
         <seg>Toisilla käyttäjillä saattaa olla vaihtoehtoisia toimintoja ja ratkaisuja pulmiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conventions used in this manual</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112648Z" creationid="Hanne" creationdate="20240307T112648Z">
+        <seg>Käsikirjassa käytetyt käytännöt</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,6 +20784,14 @@ avulla.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T125848Z" creationid="piav" creationdate="20191201T123913Z">
         <seg>Määritystiedostojen on oltava saatavilla, mikäli tarvitset muutettuja asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112604Z" creationid="Hanne" creationdate="20240307T112604Z">
+        <seg>Jos jokin OmegaT:ssä mietityttää tai tarvitset apua sen kanssa, liity &lt;u0&gt;OmegaT:n käyttäjäryhmään.&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44779,6 +44795,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170930T060918Z" creationid="PiaVee" creationdate="20170930T060918Z">
         <seg>Komentosarja on tarkoitettu käytettäväksi OmegaT 3.6:ssa ja tätä uudemmissa versioissa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents the conventions used to distinguish the elements of the OmegaT user interface in this manual.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112828Z" creationid="Hanne" creationdate="20240307T112828Z">
+        <seg>Tässä osiossa esitellään käsikirjan käytännöt, joilla eritellään OmegaT-käyttäjäliittymässä käytetyt elementit.</seg>
       </tuv>
     </tu>
     <tu>
