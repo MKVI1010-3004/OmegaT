@@ -15436,6 +15436,14 @@ kukaan ei kuule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even if things look very broken, do not panic.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112252Z" creationid="Hanne" creationdate="20240307T112252Z">
+        <seg>Älä hätäile, vaikka tilanne vaikuttaisi toivottomalta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T081001Z" creationid="piav" creationdate="20191211T081001Z">
@@ -18893,6 +18901,14 @@ lopullisesti.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115211Z" creationid="piav" creationdate="20191208T115203Z">
         <seg>Miten…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How can OmegaT help against such glitches?</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112021Z" creationid="Hanne" creationdate="20240307T112021Z">
+        <seg>Miten OmegaT voi muka välttää edellä kuvaillut tilanteet?</seg>
       </tuv>
     </tu>
     <tu>
@@ -27674,6 +27690,14 @@ Apit-kansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170930T064856Z" creationid="PiaVee" creationdate="20170930T064833Z">
         <seg>sekä siitä huolellisuudesta, jolla hän piti pakettivarastot hyvässä järjestyksessä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not to worry.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112117Z" creationid="Hanne" creationdate="20240307T112035Z">
+        <seg>Helposti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42249,6 +42273,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T150151Z" creationid="piav" creationdate="20191202T150151Z">
         <seg>Tulokset näkyvät omassa ikkunassaan, ja tulostaulukko toimii näin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The robust design of OmegaT makes it &lt;e0&gt;extremely&lt;/e0&gt; unlikely that you have lost more than a few minutes of work.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112211Z" creationid="Hanne" creationdate="20240307T112211Z">
+        <seg>OmegaT:n vankan rakenteen ansiosta on &lt;e0&gt;erittäin&lt;/e0&gt; epätodennäköistä, että menettäisit enemmän kuin muutaman minuutin työn.</seg>
       </tuv>
     </tu>
     <tu>
