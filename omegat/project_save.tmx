@@ -7138,8 +7138,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T105922Z" creationid="Hanne" creationdate="20240307T105455Z">
-        <seg>OmegaT-käännösprojektiin on saatavilla useita apuvälineitä eri kansioissa. Kansiosta &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; löydät kaikkien apuvälineiden tiedostot ja käännösmuistikansiosta &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; löydät projektin aikana luomasi käännökset. </seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110617Z" creationid="Hanne" creationdate="20240307T105455Z">
+        <seg>OmegaT-käännösprojektiin on saatavilla useita apuvälineitä eri kansioissa. Kansiosta &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; löydät kaikkien työkalujen tiedostot ja käännösmuistikansiosta &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; löydät projektin aikana luomasi käännökset. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8906,8 +8906,8 @@ bittiavaruus.</seg>
       <tuv lang="en">
         <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T110110Z" creationid="Hanne" creationdate="20240307T110110Z">
-        <seg>Saat projektin luonnin aikana automaattisesti käyttöösi projektin käännösmuistin sekä käännettävät tiedostot.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110603Z" creationid="Hanne" creationdate="20240307T110110Z">
+        <seg>Työkaluista saat automaattisesti käyttöön projektin luonnin aikana käännösmuistin sekä käännettävät tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43452,8 +43452,8 @@ kadonnut sivu.</seg>
       <tuv lang="en">
         <seg>They can also include reference translation memories, glossaries, and other reference files.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T110217Z" creationid="Hanne" creationdate="20240307T110217Z">
-        <seg>Apuvälineistä voit myös löytää rinnakkaiskäännösmuisteja, sanastoja ja muita rinnakkaistekstejä.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110525Z" creationid="Hanne" creationdate="20240307T110217Z">
+        <seg>Työkaluista voit myös löytää rinnakkaiskäännösmuisteja, sanastoja ja muita rinnakkaistekstejä.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46351,8 +46351,16 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T105905Z" creationid="Hanne" creationdate="20240307T105905Z">
-        <seg>Pystyt muokkaamaan apuvälineiden kansioiden sisältöjä tai sijaintia käännösprosessin missä tahansa vaiheessa. </seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110610Z" creationid="Hanne" creationdate="20240307T105905Z">
+        <seg>Pystyt muokkaamaan työkalujen kansioiden sisältöjä tai sijaintia käännösprosessin missä tahansa vaiheessa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators do not have to &lt;e0&gt;create&lt;/e0&gt; a translation memory or &lt;e1&gt;associate&lt;/e1&gt; one to a new project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110724Z" creationid="Hanne" creationdate="20240307T110724Z">
+        <seg>Kääntäjän ei tarvitse itse &lt;e0&gt;luoda&lt;/e0&gt; käännösmuistia tai &lt;e1&gt;liittää&lt;/e1&gt; käännösmuistia uuteen projektiin.</seg>
       </tuv>
     </tu>
     <tu>
