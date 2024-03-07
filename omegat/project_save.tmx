@@ -29776,8 +29776,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T120802Z" creationid="Hanne" creationdate="20240307T120802Z">
-        <seg>OmegaT:stä löytyy oikeinkirjoituksen tarkitus ohjelma, mutta ei sanastoja, joilla oikeasti tarkistaa oikeinkirjoitusta.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T122549Z" creationid="Hanne" creationdate="20240307T120802Z">
+        <seg>OmegaT:stä löytyy oikeinkirjoituksen tarkistusohjelma, mutta ei sanastoja, joilla tarkistaa oikeinkirjoitusta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38351,8 +38351,8 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       <tuv lang="en">
         <seg>Spellchecking dictionaries</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T120708Z" creationid="Hanne" creationdate="20240307T120708Z">
-        <seg>Oikeinkirjoituksen sanastot</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120932Z" creationid="Hanne" creationdate="20240307T120708Z">
+        <seg>Oikeinkirjoituksen tarkistuksen sanastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -48312,6 +48312,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120921Z" creationid="Hanne" creationdate="20240307T120921Z">
+        <seg>Käytä &lt;l0/&gt; osiota yleisessä &lt;l1/&gt; näkymässä säätääksesi oikeinkirjoituksen tarkituksen asetuksia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T105458Z" creationid="piav" creationdate="20191129T105458Z">
@@ -51155,6 +51163,14 @@ mutta kuitenkin oikealla tavalla.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T190224Z" creationid="piav" creationdate="20220906T190224Z">
         <seg>Lisää käännösehdotus segmenttiin painamalla uudelleen näppäinyhdistelmää &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to install the dictionaries you need yourself.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120811Z" creationid="Hanne" creationdate="20240307T120811Z">
+        <seg>Sinun täytyy lisätä sanastot itse.</seg>
       </tuv>
     </tu>
     <tu>
