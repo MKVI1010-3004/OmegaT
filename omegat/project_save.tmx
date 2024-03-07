@@ -8752,6 +8752,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Buttons</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114033Z" creationid="Hanne" creationdate="20240307T114033Z">
+        <seg>Painikkeet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171219T094649Z" creationid="PiaVee" creationdate="20171219T094420Z">
@@ -9372,6 +9380,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T110830Z" creationid="piav" creationdate="20191127T110830Z">
         <seg>Tämän merkinnän muuttaminen ei vaikuta jo olemassa olevien käännösmuistien segmentointiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapters, how-to and appendices</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114222Z" creationid="Hanne" creationdate="20240307T114222Z">
+        <seg>Luvut, ohjeet ja liitteet</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,6 +16606,14 @@ Joissakin attribuuteissa on virheelliä arvoja.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T133841Z" creationid="piav" creationdate="20230510T133841Z">
         <seg>Tiedostonimen muuttujat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files and folders</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114107Z" creationid="Hanne" creationdate="20240307T114107Z">
+        <seg>Tiedostot ja kansiot</seg>
       </tuv>
     </tu>
     <tu>
@@ -24684,6 +24708,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links to external resources</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114245Z" creationid="Hanne" creationdate="20240307T114245Z">
+        <seg>Linkit ulkoisiin työkaluihin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T073333Z" creationid="piav" creationdate="20191211T073333Z">
@@ -26080,6 +26112,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T113942Z" creationid="Hanne" creationdate="20240307T113942Z">
         <seg>Valikon vaihtoehdot oletuspikanäppäimellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu items with no default shortcut</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114023Z" creationid="Hanne" creationdate="20240307T114023Z">
+        <seg>Valikon vaihtoehdot, joissa ei ole oletuspikanäppäintä</seg>
       </tuv>
     </tu>
     <tu>
@@ -30938,6 +30978,14 @@ Lähdetään kalaan.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Panes, windows, dialogs</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114048Z" creationid="Hanne" creationdate="20240307T114048Z">
+        <seg>Ruudut, ikkunat, valintaikkunat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081005Z" creationid="PiaVee" creationdate="20171015T081005Z">
@@ -31852,6 +31900,14 @@ onko sinun tehtävä vielä muuta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T130213Z" creationid="piav" creationdate="20190920T130213Z">
         <seg>Ei ennalta määriteltyjä tunnistetietoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preference settings and project properties</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114150Z" creationid="Hanne" creationdate="20240307T114150Z">
+        <seg>Asetukset ja projektin tiedot</seg>
       </tuv>
     </tu>
     <tu>
@@ -39860,10 +39916,34 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; chapter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114227Z" creationid="Hanne" creationdate="20240307T114227Z">
+        <seg>&lt;l0/&gt; luku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; dialog opens next.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T160855Z" creationid="piav" creationdate="20221102T160855Z">
         <seg>Seuraavaksi avautuu &lt;l0/&gt;-valintaikkuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114058Z" creationid="Hanne" creationdate="20240307T114058Z">
+        <seg>&lt;l0/&gt; ruutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114158Z" creationid="Hanne" creationdate="20240307T114158Z">
+        <seg>&lt;l0/&gt; asetus.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39876,10 +39956,26 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt; &lt;f1&gt;omegat.project&lt;/f1&gt; &lt;/l0&gt; file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114129Z" creationid="Hanne" creationdate="20240307T114129Z">
+        <seg>&lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;-tiedosto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T120320Z" creationid="piav" creationdate="20191201T120320Z">
         <seg>Argumentti &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; saa &lt;a2&gt;OmegaT&lt;/a2&gt;:n käyttämään käyttöjärjestelmän kielen sijasta määriteltyä kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114306Z" creationid="Hanne" creationdate="20240307T114306Z">
+        <seg>&lt;u0&gt;Java Regex -dokumentaatio&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47796,6 +47892,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202819Z" creationid="piav" creationdate="20231030T202819Z">
         <seg>Valitse &lt;l0/&gt;&lt;l1/&gt;, niin näet tiedoston sisällön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114008Z" creationid="Hanne" creationdate="20240307T114008Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
