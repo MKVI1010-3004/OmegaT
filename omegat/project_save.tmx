@@ -7402,6 +7402,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And before you ever need to follow those steps, OmegaT will allow you to focus on actually translating, and hopefully help you become a better translator.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112438Z" creationid="Hanne" creationdate="20240307T112438Z">
+        <seg>Ennen kuin sinun tarvitsee edes tukeutua näihin ohjeisiin, OmegaT antaa sinun keskittyä kääntämiseen ja taitojesi kehittämiseen kääntäjänä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T183510Z" creationid="piav" creationdate="20191210T183510Z">
@@ -23574,6 +23582,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T140226Z" creationid="piav" creationdate="20221102T140226Z">
         <seg>Kohdistin siirtyy segmenttiin, jonka kirjainlyhenne tai numero kirjoitetaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just follow the simple steps described in the &lt;l0/&gt; how-to.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112338Z" creationid="Hanne" creationdate="20240307T112338Z">
+        <seg>Sinun tarvitsee vain seurata yksinkertaisia ohjeita, jotka löytyvät &lt;l0/&gt;Ohjeet-osiosta.</seg>
       </tuv>
     </tu>
     <tu>
