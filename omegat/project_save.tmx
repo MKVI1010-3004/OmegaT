@@ -43554,6 +43554,14 @@ kadonnut sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They are displayed in a way that makes it easier to identify their function.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T112859Z" creationid="Hanne" creationdate="20240307T112859Z">
+        <seg>Elementit näytetään siten, että niiden käyttötarkoitus on helppo huomata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114349Z" creationid="piav" creationdate="20191202T114245Z">
