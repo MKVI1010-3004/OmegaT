@@ -50635,6 +50635,14 @@ sarjaa linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You have not used OmegaT yet, but you remember the times you were translating in your word processor and a computer glitch wiped out the book translation you had been working on for the last six months, or the report that was due in one hour.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111919Z" creationid="Hanne" creationdate="20240307T111919Z">
+        <seg>Et ole vielä käyttänyt OmegaT:tä, mutta muistat varmasti ne kerrat, kun olit työn touhussa kääntämässä kirjaa ja äkillinen vika tietokoneessasi hävitti kaiken kuuden kuukauden aikana tekemäsi työn, tai sen raportin, joka piti palauttaa tunnin sisällä. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190919T131852Z" creationid="piav" creationdate="20190919T131852Z">
@@ -50803,6 +50811,14 @@ mutta kuitenkin oikealla tavalla.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T141850Z" creationid="piav" creationdate="20191030T141850Z">
         <seg>OmegaT on käynnistettävä uudelleen, jotta muutos tulee voimaan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You're considering OmegaT, but…</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111940Z" creationid="Hanne" creationdate="20240307T111940Z">
+        <seg>Harkitset OmegaT:n käyttöä, mutta...</seg>
       </tuv>
     </tu>
     <tu>
