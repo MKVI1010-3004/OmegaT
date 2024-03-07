@@ -7144,6 +7144,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An OmegaT project is simply a set of folders that holds all your default resources.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114704Z" creationid="Hanne" creationdate="20240307T114704Z">
+        <seg>OmegaT-projekti on yksinkertaisuudessaan kasa kansioita, joissa löydät oletustyökalusi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T110617Z" creationid="Hanne" creationdate="20240307T105455Z">
@@ -39944,6 +39952,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T114227Z" creationid="Hanne" creationdate="20240307T114227Z">
         <seg>&lt;l0/&gt; luku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; dialog opens after you have named your project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T114723Z" creationid="Hanne" creationdate="20240307T114723Z">
+        <seg>&lt;l0/&gt; dialogi avautuu projektin nimeämisen jälkeen.</seg>
       </tuv>
     </tu>
     <tu>
