@@ -7138,8 +7138,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>An OmegaT translation project consists of a number of resources stored in separate folders, of an &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; file that stores the location of all the resources and of a &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; translation memory file that stores all the translations made while working on that project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T105812Z" creationid="Hanne" creationdate="20240307T105455Z">
-        <seg>OmegaT-käännösprojektiin on saatavilla useita apuvälineitä eri kansioissa. Kansiosta &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; löydät kaikki apuvälineiden tiedostot ja käännösmuistikansiosta &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; löydät projektin aikana luomasi käännökset. </seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T105922Z" creationid="Hanne" creationdate="20240307T105455Z">
+        <seg>OmegaT-käännösprojektiin on saatavilla useita apuvälineitä eri kansioissa. Kansiosta &lt;l0&gt;&lt;f1&gt;omegat.project&lt;/f1&gt;&lt;/l0&gt; löydät kaikkien apuvälineiden tiedostot ja käännösmuistikansiosta &lt;l2&gt;&lt;f3&gt;project_save.tmx&lt;/f3&gt;&lt;/l2&gt; löydät projektin aikana luomasi käännökset. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8900,6 +8900,14 @@ bittiavaruus.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T123206Z" creationid="piav" creationdate="20191127T122953Z">
         <seg>Oletusarvona on, että vasemmalta oikealle luettavissa (left-to-right, LTR) kielissä käytetään vasemman reunan tasausta ja oikealta vasemmalle luettavissa (right-to-left, RTL) kielissä käytetään oikean reunan tasausta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, resources include the project’s translation memory, which is automatically created upon project creation, and the files to translate.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110110Z" creationid="Hanne" creationdate="20240307T110110Z">
+        <seg>Saat projektin luonnin aikana automaattisesti käyttöösi projektin käännösmuistin sekä käännettävät tiedostot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46321,6 +46329,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T115920Z" creationid="piav" creationdate="20190920T115920Z">
         <seg>Kääntään kommentit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can easily modify the contents or location of those resources at any time during the translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T105905Z" creationid="Hanne" creationdate="20240307T105905Z">
+        <seg>Pystyt muokkaamaan apuvälineiden kansioiden sisältöjä tai sijaintia käännösprosessin missä tahansa vaiheessa. </seg>
       </tuv>
     </tu>
     <tu>
