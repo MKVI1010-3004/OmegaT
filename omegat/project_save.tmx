@@ -20790,8 +20790,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u0&gt;OmegaT user groups.&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T112604Z" creationid="Hanne" creationdate="20240307T112604Z">
-        <seg>Jos jokin OmegaT:ssä mietityttää tai tarvitset apua sen kanssa, liity &lt;u0&gt;OmegaT:n käyttäjäryhmään.&lt;/u0&gt;</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T113054Z" creationid="Hanne" creationdate="20240307T112604Z">
+        <seg>Jos jokin OmegaT:ssä mietityttää tai tarvitset apua sen kanssa, liity &lt;u0&gt;OmegaT:n käyttäjätukiryhmään.&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40300,6 +40300,14 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114937Z" creationid="piav" creationdate="20191201T114937Z">
         <seg>Yllä kuvattu tapa on hieman epäkäytännöllinen, kun ohjelma käynnistetään tämän tästä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T113751Z" creationid="Hanne" creationdate="20240307T113751Z">
+        <seg>Jos näyttöllä ei näy visuaaliset eroavaisuudet, elementteihin liitetty toiminto myös vihjaa niiden käyttötarkoituksesta: &lt;e0&gt;käytä&lt;/e0&gt; valikkotyökalua tai &lt;e1&gt;napsauta&lt;/e1&gt;painiketta.</seg>
       </tuv>
     </tu>
     <tu>
