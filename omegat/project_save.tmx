@@ -10388,6 +10388,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collaboration</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111016Z" creationid="Hanne" creationdate="20240307T111016Z">
+        <seg>Yhteistyö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T093952Z" creationid="piav" creationdate="20190522T093952Z">
@@ -29242,6 +29250,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT takes care of that &lt;e2&gt;automatically&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110739Z" creationid="Hanne" creationdate="20240307T110739Z">
+        <seg>OmegaT tekee sen &lt;e2&gt;automaattisesti&lt;/e2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT team</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T144929Z" creationid="piav" creationdate="20191209T144929Z">
@@ -43237,6 +43253,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is no limit to the number of translation memories that can be used as reference in a translation project, and OmegaT makes it very easy to assign different levels of priority to these additional memories.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T111010Z" creationid="Hanne" creationdate="20240307T111010Z">
+        <seg>Projektien käännösmuistien määrää ei ole rajoitettu ja OmegaT:llä on helppo asettaa lisäkäännösmuistit tärkeysjärjestykseen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T113155Z" creationid="piav" creationdate="20191023T113155Z">
@@ -46353,6 +46377,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T110610Z" creationid="Hanne" creationdate="20240307T105905Z">
         <seg>Pystyt muokkaamaan työkalujen kansioiden sisältöjä tai sijaintia käännösprosessin missä tahansa vaiheessa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translators can very easily reuse an existing projectʼs translation memory by simply adding new translation files to an existing project, or by copying an existing translation memory to a new project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T110841Z" creationid="Hanne" creationdate="20240307T110841Z">
+        <seg>Kääntäjät voivat helposti hyödyntää jo olemassaolevan projektin käännösmuistia joko lisäämällä uusia käännettäviä tekstejä projketiin tai kopioimalla olemassaolevan käännösmuistin uuteen projektiin.</seg>
       </tuv>
     </tu>
     <tu>
