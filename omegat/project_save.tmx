@@ -20207,6 +20207,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the format of your file is not listed, use third-party plugins or convert the file to a format that is supported.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120640Z" creationid="Hanne" creationdate="20240307T120640Z">
+        <seg>Jos haluamaasi tiedostomuotoa ei löydy listasta, käytä ulkopuolista lisäosaa tai muunna tiedosto tuettuun muotoon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T120156Z" creationid="piav" creationdate="20191201T120156Z">
@@ -20662,6 +20670,14 @@ näkyvät.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T162749Z" creationid="piav" creationdate="20230511T162740Z">
         <seg>Jos päätät asentaa uuden version, muista seuraavat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not see the contents of a file in the &lt;l0/&gt; pane, that file might be empty, or in a format that is not supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120533Z" creationid="Hanne" creationdate="20240307T120533Z">
+        <seg>Jos et näe tiedoston tietoja &lt;l0/&gt; -ruudussa, tiedosto saattaa olla tyhjä tai OmegaT ei tue sen muotoa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29758,6 +29774,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Omegat provides a spellchecking system, but does not come with the dictionaries required to actually spellcheck your translations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120802Z" creationid="Hanne" creationdate="20240307T120802Z">
+        <seg>OmegaT:stä löytyy oikeinkirjoituksen tarkitus ohjelma, mutta ei sanastoja, joilla oikeasti tarkistaa oikeinkirjoitusta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T114541Z" creationid="piav" creationdate="20191201T114541Z">
@@ -36032,6 +36056,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l3/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120657Z" creationid="Hanne" creationdate="20240307T120657Z">
+        <seg>Lue lisätietoa &lt;l3/&gt; Ohjeet-osiosta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T103104Z" creationid="pia" creationdate="20221114T103104Z">
@@ -38313,6 +38345,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T111713Z" creationid="piav" creationdate="20191023T111713Z">
         <seg>Oikeinkirjoituksen tarkistuksen asetukset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120708Z" creationid="Hanne" creationdate="20240307T120708Z">
+        <seg>Oikeinkirjoituksen sanastot</seg>
       </tuv>
     </tu>
     <tu>
@@ -47968,6 +48008,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120446Z" creationid="Hanne" creationdate="20240307T120446Z">
+        <seg>Napsauta &lt;l0/&gt;&lt;l1/&gt; -painiketta, jos et tiedä missä kansiossa projektisi on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202036Z" creationid="piav" creationdate="20231030T202036Z">
@@ -48036,6 +48084,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T114008Z" creationid="Hanne" creationdate="20240307T114008Z">
         <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l1/&gt;&lt;l2/&gt; to open the list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T120557Z" creationid="Hanne" creationdate="20240307T120557Z">
+        <seg>Napsauta &lt;l1/&gt;&lt;l2/&gt; -painiketta nähdäksesi tuetut tiedostomuodot.</seg>
       </tuv>
     </tu>
     <tu>
