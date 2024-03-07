@@ -26076,6 +26076,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items with a default shortcut</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T113942Z" creationid="Hanne" creationdate="20240307T113942Z">
+        <seg>Valikon vaihtoehdot oletuspikanäppäimellä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T115214Z" creationid="piav" creationdate="20191208T115214Z">
@@ -37096,6 +37104,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similarly, links to the various parts of the manual are displayed in a way that make it easier to identify the function of the linked item.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T113911Z" creationid="Hanne" creationdate="20240307T113911Z">
+        <seg>Tämän lisäksi käyttöoppaan linkitykset on kuvattu siten, että niistä on helppo huomata linkitetyn kohteen käyttötarkoitus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly, the contents of the &lt;l1/&gt; folder are automatically recognized and do not require reloading the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T143018Z" creationid="piav" creationdate="20221102T142956Z">
@@ -40306,8 +40322,8 @@ Yritä korjata virhe ja lataa sitten projekti uudelleen.</seg>
       <tuv lang="en">
         <seg>The action associated with an item also hints at its function in case the display fails to convey the visual differences: &lt;e0&gt;use&lt;/e0&gt; a menu item, or &lt;e1&gt;click&lt;/e1&gt; on a button.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T113751Z" creationid="Hanne" creationdate="20240307T113751Z">
-        <seg>Jos näyttöllä ei näy visuaaliset eroavaisuudet, elementteihin liitetty toiminto myös vihjaa niiden käyttötarkoituksesta: &lt;e0&gt;käytä&lt;/e0&gt; valikkotyökalua tai &lt;e1&gt;napsauta&lt;/e1&gt;painiketta.</seg>
+      <tuv lang="fi" changeid="Hanne" changedate="20240307T113956Z" creationid="Hanne" creationdate="20240307T113751Z">
+        <seg>Jos näyttöllä ei näy visuaaliset eroavaisuudet, elementteihin liitetty toiminto myös vihjaa niiden käyttötarkoituksesta: &lt;e0&gt;käytä&lt;/e0&gt; valikon vaihtoehtoja tai &lt;e1&gt;napsauta&lt;/e1&gt;painiketta.</seg>
       </tuv>
     </tu>
     <tu>
