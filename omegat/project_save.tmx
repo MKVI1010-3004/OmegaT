@@ -29598,14 +29598,6 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
-      </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240403T122740Z" creationid="ainokaarsalo" creationdate="20240403T122740Z">
-        <seg>fefe</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T154350Z" creationid="PiaVee" creationdate="20171014T154350Z">
@@ -36588,6 +36580,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171010Z" creationid="piav" creationdate="20230511T171010Z">
         <seg>Valitse sopiva versio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select as many dictionaries as you want and click the &lt;g0&gt;Install&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240404T084510Z" creationid="ainokaarsalo" creationdate="20240404T084510Z">
+        <seg>Valitse niin monta sanakirjaa kuin haluat, ja napsauta &lt;g0&gt;Asennus &lt;/g0&gt;painiketta. </seg>
       </tuv>
     </tu>
     <tu>
