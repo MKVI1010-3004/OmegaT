@@ -49688,6 +49688,14 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, use &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T185252Z" creationid="Tintin" creationdate="20240408T185252Z">
+        <seg>Mikäli haluat nähdä miltä käännöksesi tulee näyttämään lopullisessa muodossaan, käytä &lt;l0/&gt; &lt;l1/&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T172411Z" creationid="piav" creationdate="20191210T172411Z">
