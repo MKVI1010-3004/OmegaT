@@ -50750,6 +50750,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can automate file name changes using the &lt;l0/&gt; option for the file filter.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T190844Z" creationid="Tintin" creationdate="20240408T190844Z">
+        <seg>Voit automatisoida muutoksia tiedostojen nimeämiseen käyttäen &lt;l0/&gt;-valintaa tiedostosuodattimeen. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T113452Z" creationid="piav" creationdate="20191208T113354Z">
