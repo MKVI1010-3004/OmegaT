@@ -19510,6 +19510,14 @@ polulla, koko polkua ei tarvitse kirjoittaa.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a file refuses to open in LibreOffice, Word or other application, it is often due to errors in the management of OmegaT tags.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T183735Z" creationid="Tintin" creationdate="20240408T183735Z">
+        <seg>Jos tiedosto ei avaudu LibreOfficessa, Wordissä tai jossakin muussa sovelluksessa, johtuu se usein OmegaT:n tägien väärinkäytöstä. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T071833Z" creationid="piav" creationdate="20191128T071833Z">
