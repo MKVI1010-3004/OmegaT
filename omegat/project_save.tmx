@@ -46845,6 +46845,14 @@ ovat ja suorita tiedosto komennolla ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation projects are just folders containing files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205047Z" creationid="Tintin" creationdate="20240408T205047Z">
+        <seg>Käännösprojektit ovat kansioita, jotka sisältävät tiedostoja. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit encountered before TMX header.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190523T173608Z" creationid="piav" creationdate="20190523T140355Z">
@@ -50634,6 +50642,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can access and modify the project settings using &lt;l0/&gt; &lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205253Z" creationid="Tintin" creationdate="20240408T205253Z">
+        <seg>Pääset käsiksi ja pystyt muokkaamaan projektin asetuksia käyttämällä &lt;l0/&gt;&lt;l1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T092943Z" creationid="piav" creationdate="20191201T092943Z">
@@ -50890,6 +50906,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114954Z" creationid="piav" creationdate="20191202T114954Z">
         <seg>Voit luoda jokaiselle käännöstyölle uuden projektin, ja voit lisätä projektiin uusia lähdetiedostoja milloin tahansa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, or you can add new source files to an existing project at any time.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205147Z" creationid="Tintin" creationdate="20240408T205147Z">
+        <seg>Voit luoda uuden projektin jokaiselle uudelle tehtävälle tai voit lisätä uuden lähdetiedoston jo olemassa olevalle projektille milloin vain. </seg>
       </tuv>
     </tu>
     <tu>
