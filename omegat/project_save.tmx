@@ -20852,6 +20852,14 @@ avulla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you make mistakes when you manage the tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T183231Z" creationid="Tintin" creationdate="20240408T183231Z">
+        <seg>Jos teet tägejä käsitellessä virheitä, käännostiedostoja ei välttämättä saa avattua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need a specific review process you can, for example:</seg>
       </tuv>
       <tuv lang="fi" changeid="ainokaarsalo" changedate="20240403T123624Z" creationid="ainokaarsalo" creationdate="20240403T123624Z">
