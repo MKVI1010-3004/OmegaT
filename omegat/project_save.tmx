@@ -48032,6 +48032,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T183518Z" creationid="Tintin" creationdate="20240408T183518Z">
+        <seg>Voit käyttää &lt;l0/&gt; ja &lt;l1/&gt; tarkistaaksesi tägisi, ennen kuin luot käännetyt tiedostot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; if you don’t remember where your project is.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T120446Z" creationid="Hanne" creationdate="20240307T120446Z">
