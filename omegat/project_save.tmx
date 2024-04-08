@@ -46032,6 +46032,14 @@ asetukset oletusarvoihinsa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see the list of files in the project, use &lt;l2/&gt; from the same menu.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205401Z" creationid="Tintin" creationdate="20240408T205401Z">
+        <seg>Nähdäksesi tiedostoluettelo projektissa, käytä samasta valikosta löytyvää &lt;l2/&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T071615Z" creationid="piav" creationdate="20191128T071615Z">
@@ -50646,6 +50654,14 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240408T205253Z" creationid="Tintin" creationdate="20240408T205253Z">
         <seg>Pääset käsiksi ja pystyt muokkaamaan projektin asetuksia käyttämällä &lt;l0/&gt;&lt;l1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access the contents of all resources at any time with the &lt;l3/&gt; option.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205512Z" creationid="Tintin" creationdate="20240408T205512Z">
+        <seg>Pystyt milloin vain käsittelemään kaikkea resurssien sisältöä käyttämällä valintaa &lt;l3/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
