@@ -33930,6 +33930,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename any files you want to prevent from being overwritten after you create them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T190547Z" creationid="Tintin" creationdate="20240408T190547Z">
+        <seg>Uudelleen nimeä kaikki tiedostot, joiden et halua tulla ylikirjoitetuksi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T123758Z" creationid="PiaVee" creationdate="20171015T123758Z">
