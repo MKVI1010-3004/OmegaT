@@ -10264,6 +10264,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the &lt;l0/&gt; button to display a list of dictionaries available at the URL in the &lt;g1&gt;URL of downloadable spellchecking dictionaries&lt;/g1&gt; field above that button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Hanne" changedate="20240408T165935Z" creationid="Hanne" creationdate="20240408T165935Z">
+        <seg>Napsauta &lt;l0/&gt; painiketta nähdäksesi URL:sta saatavilla olevat sanakirjat &lt;g1&gt;ladattavien oikeinkirjoituksen tarkistuksen sanakirjojen URL&lt;/g1&gt; painikkeesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T093930Z" creationid="piav" creationdate="20191201T093930Z">
