@@ -51434,6 +51434,14 @@ OmegaT:n luoda omaa asetuskansiota.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your translations are &lt;e0&gt;always&lt;/e0&gt; stored in the &lt;l1/&gt; file, which is the project translation memory, located in the &lt;l2/&gt; folder of your project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T191835Z" creationid="Tintin" creationdate="20240408T191835Z">
+        <seg>Käännöksesi säilytetään &lt;e0&gt;aina&lt;/e0&gt; &lt;l1/&gt;-tiedostossa, joka on projektin käännösmuisti, joka on projektina &lt;l2/&gt; kansiossa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your version</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171047Z" creationid="piav" creationdate="20230511T171047Z">
