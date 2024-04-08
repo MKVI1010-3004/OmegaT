@@ -16426,6 +16426,14 @@ Joissakin attribuuteissa on virheelliä arvoja.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Feel free to modify the &lt;l0/&gt; layout and &lt;l1/&gt; options when you review the translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T184316Z" creationid="Tintin" creationdate="20240408T184316Z">
+        <seg>Voit vapaasti muokata &lt;l0/&gt;-asettelua ja &lt;l1/&gt;-asetuksia, kun tarkistat projektia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T114711Z" creationid="piav" creationdate="20191202T114711Z">
@@ -34488,6 +34496,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190522T082038Z" creationid="piav" creationdate="20190522T082038Z">
         <seg>Hanki kokoelmaluettelo…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T183829Z" creationid="Tintin" creationdate="20240408T183829Z">
+        <seg>Palaa OmegaT-sovellukseen, tarkista documentin tägit ja luo käännetty tiedosto uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
