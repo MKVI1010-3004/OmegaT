@@ -12797,6 +12797,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting the contents of the &lt;l0/&gt; folder &lt;e1&gt;never&lt;/e1&gt; impacts the content of your translations.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T192337Z" creationid="Tintin" creationdate="20240408T192337Z">
+        <seg>&lt;l0/&gt; kansion sisällön poistaminen ei &lt;e1&gt;koskaan&lt;/e1&gt; vaikuta käännöksesi sisältöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deletion failed</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T150828Z" creationid="piav" creationdate="20230511T150828Z">
