@@ -48368,6 +48368,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T184952Z" creationid="Tintin" creationdate="20240408T184952Z">
+        <seg>Käytä &lt;l0/&gt; valintaa suorittaaksesi erilaisia tarkastuksia käännöksesi sisältöön.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; section in the general &lt;l1/&gt; dialog to access the spellchecking preferences.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T120921Z" creationid="Hanne" creationdate="20240307T120921Z">
