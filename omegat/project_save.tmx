@@ -26564,6 +26564,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made outside OmegaT can be reinserted in OmegaT (and thus in the project translation memory, to keep it up to date) either by entering them manually in the relevant segments, or by aligning the original file and the final translated file to create a new translation memory (TMX) file that will be put in the &lt;l0/&gt; folder of your project folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T204817Z" creationid="Tintin" creationdate="20240408T204817Z">
+        <seg>OmegaT-sovelluksen ulkopuolella tehdyt muokkaukset voidaan lisätä OmegaT-sovelluksessa (eli ne myös lisätään käännösmuistiin) joko lisäämällä ne manuaalisesti sopiviin segmentteihin tai luomalla kokonaan uuden käännösmuistitiedoston (TMX) yhdistämällä alkuperäisen tiedoston ja lopullisen käännetyn tiedoston, joka tallentuu &lt;l0/&gt; kansioon projektikansiossa. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified Segments:</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20170910T084248Z" creationid="PiaVee" creationdate="20170910T084248Z">
@@ -30034,6 +30042,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T115743Z" creationid="piav" creationdate="20191128T115343Z">
         <seg>Kun projekti on saatu määritettyä palvelimelle, projektipäällikkö voi kutsua kääntäjät työskentelemään sen parissa. Projektipäällikkö voi joko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the translated files have been created, you can open them in their original application to check their contents and eventually further modify them.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T192623Z" creationid="Tintin" creationdate="20240408T192623Z">
+        <seg>Kun olet luonut käännettävät tiedostot, voit avata ne alkuperäisessä sovelluksessa tarkastaaksesi niiden sisällön ja muokataksesi niitä lisää. </seg>
       </tuv>
     </tu>
     <tu>
@@ -38875,6 +38891,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T184114Z" creationid="piav" creationdate="20191210T184114Z">
         <seg>Lisäkoodia on jo olemassa esimerkiksi Javascript-, Groovy- ja Tcl/tk-kielillä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such external modifications will &lt;e0&gt;not&lt;/e0&gt; be reflected in OmegaT.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T192702Z" creationid="Tintin" creationdate="20240408T192702Z">
+        <seg>Ulkoiset muokkaukset &lt;e0&gt;eivät&lt;/e0&gt; näy OmegaT-sovelluksessa. </seg>
       </tuv>
     </tu>
     <tu>
