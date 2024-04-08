@@ -7506,6 +7506,14 @@ jäsentämisessä tapahtui poikkeus. TMX-tiedostoa ei ladata.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any time you create the translated files, any previously created files with the same name are overwritten.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T190122Z" creationid="Tintin" creationdate="20240408T190122Z">
+        <seg>Kun luot käännettyjä tiedostoja, kaikki samannimiset tiedostot ylikirjoitetaan. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Anything after the "//" will be ignored.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T053337Z" creationid="piav" creationdate="20191023T053337Z">
