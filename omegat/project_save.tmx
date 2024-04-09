@@ -31466,6 +31466,14 @@ Lähdetään kalaan.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Picture yourself tasked with translating an updated version of a manual from a previous job.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T222938Z" creationid="Tintin" creationdate="20240409T222906Z">
+        <seg>Kuvittele, ette sinulle on annettu tehtäväksi kääntää manuaalin päivitetty versio edellisestä työstäsi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20190920T132513Z" creationid="piav" creationdate="20190920T132513Z">
@@ -48920,6 +48928,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191209T164126Z" creationid="piav" creationdate="20191209T164126Z">
         <seg>Avainsanahaku sanoilla &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; löytää siis kaikki merkkijonon &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt; esiintymät sekä &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt; jne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using shortcuts to streamline the translation process</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T222753Z" creationid="Tintin" creationdate="20240409T222753Z">
+        <seg>Pikänäppäinten käyttämine käännösprosessin nopeuttamiseksi</seg>
       </tuv>
     </tu>
     <tu>
