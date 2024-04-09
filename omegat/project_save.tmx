@@ -6456,6 +6456,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After quickly tapping &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; to insert the match, you make the necessary changes to match the revised text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T230529Z" creationid="Tintin" creationdate="20240409T230529Z">
+        <seg>Painamalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; lisätäksesi kohdistuksen, teet tarpeelliset muutokset kohdistaaksesi tarkistetun tekstin. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T125730Z" creationid="piav" creationdate="20191030T125730Z">
@@ -44362,6 +44370,14 @@ palvelimelta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T101351Z" creationid="piav" creationdate="20190522T063255Z">
         <seg>Tämä komento suoritetaan sen jälkeen kun käännettävät asiakirjat on luotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This continues, with the occasional sequence of &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (or other number) followed by &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt; when one of the matches from 2 to 5 is more suitable.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T230845Z" creationid="Tintin" creationdate="20240409T230845Z">
+        <seg>Jatkat kohdistamista painamalla ensin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;2&lt;/k2&gt;&lt;/k0&gt; (tai jonkin muun numeron), jonka jälkeen painat &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;I&lt;/k5&gt;&lt;/k3&gt;, kun jokin kohdistuksista kahdesta viiteen on sopivampi. </seg>
       </tuv>
     </tu>
     <tu>
