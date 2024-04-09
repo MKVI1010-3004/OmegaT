@@ -44711,6 +44711,14 @@ palvelimelta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is best illustrated with an example:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T222717Z" creationid="Tintin" creationdate="20240409T222717Z">
+        <seg>Tätä voidaan havainnollistaa hyvin esimerkillä: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230510T132720Z" creationid="piav" creationdate="20191210T171641Z">
