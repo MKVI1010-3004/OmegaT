@@ -7796,6 +7796,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As you savour your coffee, you reflect on how much more smoothly you were able to use the various OmegaT functions compared to when you had just gotten started and spent a lot of time clicking through menus.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T234015Z" creationid="Tintin" creationdate="20240409T234015Z">
+        <seg>Kun nautit kahvista, mietit kuinka paljon sujuvammin pystyit käyttämään OmegaT-sovelluksen monipuolisia toimintoja verrattuna siihen, kun aloitit ja klikkasit eri valikkojen läpi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ask again...</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T173346Z" creationid="piav" creationdate="20230511T173346Z">
@@ -45545,6 +45553,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171015T081916Z" creationid="PiaVee" creationdate="20171015T081916Z">
         <seg>tigrinja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Time for a break.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233706Z" creationid="Tintin" creationdate="20240409T233706Z">
+        <seg>Tauon paikka. </seg>
       </tuv>
     </tu>
     <tu>
