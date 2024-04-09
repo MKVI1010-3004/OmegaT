@@ -22761,8 +22761,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T225605Z" creationid="Tintin" creationdate="20240409T225256Z">
-        <seg>Sen sijaan, että käyttäisit hiirtä, vapautat hiiren painamalla &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, käytät nuolinäppäimiä ja järjestelmän vakiopikanäppäimiä valitaksesi termin ja painat &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;tuodaksesi esiin sanalistan termin lisäystoiminton.&lt;/l6&gt; lisätäksesi lähdetermin sanalistaan. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235355Z" creationid="Tintin" creationdate="20240409T225256Z">
+        <seg>Sen sijaan, että käyttäisit hiirtä, vapautat kohdistimen painamalla &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, käytät nuolinäppäimiä ja järjestelmän vakiopikanäppäimiä valitaksesi termin ja painat &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;tuodaksesi esiin sanalistan termin lisäystoiminton.&lt;/l6&gt; lisätäksesi lähdetermin sanalistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51437,8 +51437,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You have enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T232738Z" creationid="Tintin" creationdate="20240409T230048Z">
-        <seg>Otat käyttöön &lt;l0&gt;automaattisen täydennyksen&lt;/l0&gt; saadaksesi automaattisesti näkyviin syöttöhistorian, sanalistan termit ja ennalta määritellyt lyhyet merkkijonot, jotka kaikki voidaan lisätä käyttämällä nuoliinäppäimiä. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235236Z" creationid="Tintin" creationdate="20240409T230048Z">
+        <seg>Otat käyttöön &lt;l0&gt;automaattisen täydennyksen&lt;/l0&gt; saadaksesi automaattisesti näkyviin syöttöhistorian, sanalistan termit ja ennalta määritellyt lyhyet merkkijonot, jotka kaikki voidaan lisätä käyttämällä nuolinäppäimiä. </seg>
       </tuv>
     </tu>
     <tu>
@@ -51633,8 +51633,8 @@ mutta kuitenkin oikealla tavalla.</seg>
       <tuv lang="en">
         <seg>You then switch back to the editor, lock the cursor again with &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; and repeat the process to enter the target term.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T232756Z" creationid="Tintin" creationdate="20240409T225557Z">
-        <seg>Siirryt sitten takas muokkausruutuun, lukitset kursorin painamalla &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; ja teet prosessin uudelleen lisätäksesi kohdetermin. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235428Z" creationid="Tintin" creationdate="20240409T225557Z">
+        <seg>Siirryt sitten takaisin muokkausruutuun, lukitset kohdistimen painamalla &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; ja teet prosessin uudelleen lisätäksesi kohdetermin. </seg>
       </tuv>
     </tu>
     <tu>
