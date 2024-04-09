@@ -37552,6 +37552,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since OmegaT has registered your navigation history, you only need to use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; to immediately continue from where you left off.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232729Z" creationid="Tintin" creationdate="20240409T232729Z">
+        <seg>Koska OmegaT on rekisteröinyt navigaatiohistoriasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Since the first few pages have not changed, your are greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240409T223236Z" creationid="Tintin" creationdate="20240409T223236Z">
