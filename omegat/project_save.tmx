@@ -33170,6 +33170,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rather than tediously scroll down until you find the first segment to translate, you quickly press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T223852Z" creationid="Tintin" creationdate="20240409T223852Z">
+        <seg>Sen sijaan, että vaivalloisesti skrollaisit ensimmäiseen käännettävään segmenttiin, painatkin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;ja päädyt suoraan tähän segmenttiin&lt;/l3&gt; ja alat kääntämään. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;load</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T122509Z" creationid="piav" creationdate="20230425T120116Z">
@@ -37492,6 +37500,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200328T104432Z" creationid="piav" creationdate="20191210T180038Z">
         <seg>Useiden käännösmuistien käyttö yhtä aikaa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Since the first few pages have not changed, your are greeted with a screenful of already translated segments from the previous job's memory upon opening the project.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T223236Z" creationid="Tintin" creationdate="20240409T223236Z">
+        <seg>Koska ensimmäisissä sivuissa ei ole muutoksia, näet projektin avatessasi valmiiksi käännettyjä segmenttejä edellisen käännöksen käännösmuistin perusteella. </seg>
       </tuv>
     </tu>
     <tu>
