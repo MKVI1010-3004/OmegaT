@@ -33684,8 +33684,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Remembering the main editing and navigation shortcuts (or &lt;l0&gt;modifying them to suit your needs&lt;/l0&gt;) can help you streamline your work.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T222620Z" creationid="Tintin" creationdate="20240409T222620Z">
-        <seg>Yleisimpien editointiin ja liikkumiseen käytettävien pikanäppäinten muistaminen (tai &lt;l0&gt;muokkaamalla niitä omiin tarpeisiisi sopiviksi&lt;/l0&gt;) voi auttaa nopeuttaa työskentelyä. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232920Z" creationid="Tintin" creationdate="20240409T222620Z">
+        <seg>Yleisimpien muokkaamiseen ja navigointiin käytettävien pikanäppäinten muistaminen (tai &lt;l0&gt;muokkaamalla niitä omiin tarpeisiisi sopiviksi&lt;/l0&gt;) voi auttaa nopeuttaa työskentelyä. </seg>
       </tuv>
     </tu>
     <tu>
@@ -37554,8 +37554,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Since OmegaT has registered your navigation history, you only need to use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt; to immediately continue from where you left off.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T232729Z" creationid="Tintin" creationdate="20240409T232729Z">
-        <seg>Koska OmegaT on rekisteröinyt navigaatiohistoriasi</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233100Z" creationid="Tintin" creationdate="20240409T232729Z">
+        <seg>Koska OmegaT on rekisteröinyt navigaatiohistoriasi, voit välittömästi jatkaa siitä mihin jäit painamalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;J&lt;/k3&gt;&lt;/k0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -49022,8 +49022,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Using shortcuts to streamline the translation process</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T222753Z" creationid="Tintin" creationdate="20240409T222753Z">
-        <seg>Pikänäppäinten käyttämine käännösprosessin nopeuttamiseksi</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232851Z" creationid="Tintin" creationdate="20240409T222753Z">
+        <seg>Pikänäppäinten käyttäminen käännösprosessin nopeuttamiseksi</seg>
       </tuv>
     </tu>
     <tu>
@@ -51389,8 +51389,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You have enabled the &lt;l0&gt;auto-completion&lt;/l0&gt; to automatically display not only history predictions, but also glossary terms, and pre-defined short strings, which can be entered with simple arrow navigation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T230048Z" creationid="Tintin" creationdate="20240409T230048Z">
-        <seg>Otat käyttöön &lt;l0&gt;automaattisen täydennyksen&lt;/l0&gt; saadaksesi automaattisesti näkyviin syöttöhistorian, sanalistn termit ja ennalta määritellyt lyhyet merkkijonot, jotka kaikki voidaan lisätä käyttämällä nuoliinäppäimiä. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232738Z" creationid="Tintin" creationdate="20240409T230048Z">
+        <seg>Otat käyttöön &lt;l0&gt;automaattisen täydennyksen&lt;/l0&gt; saadaksesi automaattisesti näkyviin syöttöhistorian, sanalistan termit ja ennalta määritellyt lyhyet merkkijonot, jotka kaikki voidaan lisätä käyttämällä nuoliinäppäimiä. </seg>
       </tuv>
     </tu>
     <tu>
@@ -51577,8 +51577,8 @@ mutta kuitenkin oikealla tavalla.</seg>
       <tuv lang="en">
         <seg>You then switch back to the editor, lock the cursor again with &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; and repeat the process to enter the target term.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T225557Z" creationid="Tintin" creationdate="20240409T225557Z">
-        <seg>Siirryt sitten takas editoriin, lukitset kursorin painamalla &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; ja teet prosessin uudelleen lisätäksesi kohdetermin. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232756Z" creationid="Tintin" creationdate="20240409T225557Z">
+        <seg>Siirryt sitten takas muokkausruutuun, lukitset kursorin painamalla &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; ja teet prosessin uudelleen lisätäksesi kohdetermin. </seg>
       </tuv>
     </tu>
     <tu>
