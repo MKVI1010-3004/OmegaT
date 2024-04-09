@@ -7892,6 +7892,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the same time, you realize that during you session, you used the &lt;l0/&gt;&lt;l1/&gt; menu and the cursor keys several times, and decide to &lt;l2&gt;add a new shortcut&lt;/l2&gt; to streamline that part of the process as well.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T234255Z" creationid="Tintin" creationdate="20240409T234255Z">
+        <seg>Tajuatkin, että istunnon aikana käytit &lt;l0/&gt;&lt;l1/&gt; valikkoa ja kohdistimia useita kertoja ja päätät &lt;l2&gt;lisätä uuden pikanäppäimen&lt;/l2&gt; nopeuttaaksesi sitäkin osuutta prosessista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T112018Z" creationid="piav" creationdate="20191202T112011Z">
@@ -43065,6 +43073,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T095822Z" creationid="piav" creationdate="20191129T115627Z">
         <seg>Yksinkertaisin tapa käynnistää ohjelma on kuitenkin suorittaa &lt;f0&gt;OmegaT.exe&lt;/f0&gt;-ohjelma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The smoother workfow, in turn, allowed you to better focus on the translation itself.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T234050Z" creationid="Tintin" creationdate="20240409T234050Z">
+        <seg>Sujuvampi työnkulku antoikin sinun vuorostaan keskittyä enemmän itse käännökseen. </seg>
       </tuv>
     </tu>
     <tu>
