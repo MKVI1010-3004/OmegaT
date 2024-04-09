@@ -24490,6 +24490,14 @@ sekä koneellesi että ohjelmaa varten.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later on, you come up with a better way to phrase a somewhat thorny expression that had come up earlier, so you select it in the source text, press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;to find&lt;/l3&gt; it, and then use &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; to immediately jump to that segment from the search dialog.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T232527Z" creationid="Tintin" creationdate="20240409T232527Z">
+        <seg>Kun myöhemmin keksit paremman muotoilun aiemmin tehneellesi ilmaisulle, valitset ilmaisun lähdetekstistä, painat &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt;&lt;l3&gt;löytääksesi&lt;/l3&gt; ja painat sitten &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;J&lt;/k6&gt;&lt;/k4&gt; hypätäksesi suoraan haluamaasi segmenttiin hakupaneelista. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T115046Z" creationid="piav" creationdate="20191129T115046Z">
