@@ -37884,6 +37884,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some segments will require further modification later on, so you use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt; to enter the Notepad pane, leave yourself a note and come back to the Editor pane with &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T231129Z" creationid="Tintin" creationdate="20240409T231129Z">
+        <seg>Jotkin segmentit tarvitsevat lisää muutoksia, joten merkitset ne muistiinpanoruutuun painamalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;A&lt;/k2&gt;&lt;k3&gt;9&lt;/k3&gt;&lt;/k0&gt;. Voit palata muokkausruutuun käyttämällä &lt;k4&gt;&lt;k5&gt;C&lt;/k5&gt;&lt;k6&gt;A&lt;/k6&gt;&lt;k7&gt;0&lt;/k7&gt;&lt;/k4&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T141343Z" creationid="piav" creationdate="20200704T141309Z">
