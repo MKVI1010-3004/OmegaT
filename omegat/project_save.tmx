@@ -51527,6 +51527,14 @@ mutta kuitenkin oikealla tavalla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You now decide to review the annotated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233234Z" creationid="Tintin" creationdate="20240409T233234Z">
+        <seg>Nyt päätät tarkastella segementtejä, joista olet tehnyt merkinnän muistioon. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You only need to specify this to override some exclusions.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20200704T140744Z" creationid="piav" creationdate="20200704T140744Z">
@@ -51579,6 +51587,14 @@ mutta kuitenkin oikealla tavalla.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240409T232756Z" creationid="Tintin" creationdate="20240409T225557Z">
         <seg>Siirryt sitten takas muokkausruutuun, lukitset kursorin painamalla &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; ja teet prosessin uudelleen lisätäksesi kohdetermin. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; to find them and, in the search window, use &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; and &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; to navigate the results.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233438Z" creationid="Tintin" creationdate="20240409T233438Z">
+        <seg>Painat &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;F&lt;/k2&gt;&lt;/k0&gt; löytääksesi muistiinmerkitsemäsi segmentit ja hakuikkunassa painat &lt;k3&gt;&lt;k4&gt;C&lt;/k4&gt;&lt;k5&gt;N&lt;/k5&gt;&lt;/k3&gt; ja &lt;k6&gt;&lt;k7&gt;C&lt;/k7&gt;&lt;k8&gt;P&lt;/k8&gt;&lt;/k6&gt; navigoidaksesi tuloksia. </seg>
       </tuv>
     </tu>
     <tu>
