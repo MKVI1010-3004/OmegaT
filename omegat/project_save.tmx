@@ -9032,6 +9032,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By the time you get near the end of the section, you have also used &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; once or twice to replace already automatically entered fuzzy matches from the previous translation with better matches from earlier in the current section.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T231813Z" creationid="Tintin" creationdate="20240409T231813Z">
+        <seg>Osion loppuun mennessä, oletkin jo muutamaan kertaan painanut &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;R&lt;/k2&gt;&lt;/k0&gt; korvataksesi nykyiseen osioon automaattisesti täytetyt sumeat osumat edellisestä käännöksestä paremmilla osumilla, jotka loit edellisessä osiossa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123155Z" creationid="piav" creationdate="20190521T134819Z">
