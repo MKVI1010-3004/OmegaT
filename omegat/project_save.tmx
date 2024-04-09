@@ -5624,6 +5624,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A shortcut based workflow</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T222048Z" creationid="Tintin" creationdate="20240409T222048Z">
+        <seg>Pikanäppäimiin perustuvaa työskentelyä </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191211T093715Z" creationid="piav" creationdate="20191211T093641Z">
@@ -15584,6 +15592,14 @@ kukaan ei kuule.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191129T112026Z" creationid="piav" creationdate="20191129T112026Z">
         <seg>Paikallinen projekti synkronoidaan etävaraston kanssa (oletusarvoisesti) kolmen minuutin välein. Näin projektipäällikkö tai muut kääntäjät voivat nähdä ja käyttää tänä aikana käännösmuistiin lisättyjä käännöksiä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T221520Z" creationid="Tintin" creationdate="20240408T205518Z">
+        <seg>Aina kun luot käännettyjä tiedostoja (katso &lt;l0/&gt;), OmegaT luo kolme käännösmuistia, jotka sisältävät kansiossa olevien tiedostojen käännöksien tilan perusteella. </seg>
       </tuv>
     </tu>
     <tu>
@@ -36152,6 +36168,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T221627Z" creationid="Tintin" creationdate="20240409T221627Z">
+        <seg>Lisätietoa löytyy osiosta &lt;l2/&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l3/&gt; how-to for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T120657Z" creationid="Hanne" creationdate="20240307T120657Z">
@@ -46034,8 +46058,8 @@ asetukset oletusarvoihinsa.</seg>
       <tuv lang="en">
         <seg>To see the list of files in the project, use &lt;l2/&gt; from the same menu.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240408T205401Z" creationid="Tintin" creationdate="20240408T205401Z">
-        <seg>Nähdäksesi tiedostoluettelo projektissa, käytä samasta valikosta löytyvää &lt;l2/&gt; </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240408T205528Z" creationid="Tintin" creationdate="20240408T205401Z">
+        <seg>Nähdäksesi tiedostoluettelo projektissa, käytä samasta valikosta löytyvää &lt;l2/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
