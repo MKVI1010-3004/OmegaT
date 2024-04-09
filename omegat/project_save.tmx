@@ -2048,6 +2048,14 @@ Kysymysmerkki ? vastaa yhtä merkkiä: hakulauseke run? vastaa sanoja runs tai r
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(And do so again each time you reach a large unchanged section.)</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T224047Z" creationid="Tintin" creationdate="20240409T224047Z">
+        <seg>(Ja teet niin joka kerta, kun törmäät pitkään muuttumattomaan osioon.) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(If you think you have significantly contributed to the OmegaT Project but you
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
@@ -5436,6 +5444,14 @@ Nykyinen asetus on {0} MB.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T154440Z" creationid="piav" creationdate="20191022T154420Z">
         <seg>Numero: [0–9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few segments later, you come across a term you should add to the glossary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T224152Z" creationid="Tintin" creationdate="20240409T224152Z">
+        <seg>Muutama segmentti myöhemmin löydät termin, jonka haluat lisätä sanastoon. </seg>
       </tuv>
     </tu>
     <tu>
