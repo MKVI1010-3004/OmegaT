@@ -51519,6 +51519,14 @@ mutta kuitenkin oikealla tavalla.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You then reach a revised section of the text where the &lt;l0/&gt; pane shows a number of similar segments from the previous job.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T230336Z" creationid="Tintin" creationdate="20240409T230336Z">
+        <seg>Saavut sitten tarkistettuun tekstiosioon, jossa &lt;l0/&gt; ruudussa on samanlainen segmentti kuin aikaisemmassa työssä. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You then switch back to the editor, lock the cursor again with &lt;l7&gt;&lt;k8&gt;F2&lt;/k8&gt;&lt;/l7&gt; and repeat the process to enter the target term.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240409T225557Z" creationid="Tintin" creationdate="20240409T225557Z">
