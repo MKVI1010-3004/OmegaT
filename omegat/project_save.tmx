@@ -29586,6 +29586,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT synchronizes the Editor contents with the selected result, so you can edit the segments right away.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233641Z" creationid="Tintin" creationdate="20240409T233641Z">
+        <seg>OmegaT synkronoi muokkausikkunan sisällön valittuihin tuloksiin, jotta voit muokata segmenttejä saman tien. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT takes care of that &lt;e2&gt;automatically&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T110739Z" creationid="Hanne" creationdate="20240307T110739Z">
@@ -51529,8 +51537,8 @@ mutta kuitenkin oikealla tavalla.</seg>
       <tuv lang="en">
         <seg>You now decide to review the annotated segments.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T233234Z" creationid="Tintin" creationdate="20240409T233234Z">
-        <seg>Nyt päätät tarkastella segementtejä, joista olet tehnyt merkinnän muistioon. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T233517Z" creationid="Tintin" creationdate="20240409T233234Z">
+        <seg>Nyt päätät tarkastella muistiinmerkittyjä segmenttejä. </seg>
       </tuv>
     </tu>
     <tu>
