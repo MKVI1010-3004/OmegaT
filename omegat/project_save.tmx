@@ -5642,8 +5642,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>A shortcut based workflow</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T222048Z" creationid="Tintin" creationdate="20240409T222048Z">
-        <seg>Pikanäppäimiin perustuvaa työskentelyä </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235805Z" creationid="Tintin" creationdate="20240409T222048Z">
+        <seg>Pikanäppäimiin perustuva työskulku </seg>
       </tuv>
     </tu>
     <tu>
@@ -31540,8 +31540,8 @@ Lähdetään kalaan.</seg>
       <tuv lang="en">
         <seg>Picture yourself tasked with translating an updated version of a manual from a previous job.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T222938Z" creationid="Tintin" creationdate="20240409T222906Z">
-        <seg>Kuvittele, ette sinulle on annettu tehtäväksi kääntää manuaalin päivitetty versio edellisestä työstäsi.</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235915Z" creationid="Tintin" creationdate="20240409T222906Z">
+        <seg>Kuvittele, ette sinulle on annettu tehtäväksi kääntää edellisessä projektissa käännetyn manuaalin päivitetty versio. </seg>
       </tuv>
     </tu>
     <tu>
@@ -49070,8 +49070,8 @@ Nykyinen asetus on {0} MB;</seg>
       <tuv lang="en">
         <seg>Using shortcuts to streamline the translation process</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T232851Z" creationid="Tintin" creationdate="20240409T222753Z">
-        <seg>Pikänäppäinten käyttäminen käännösprosessin nopeuttamiseksi</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240409T235840Z" creationid="Tintin" creationdate="20240409T222753Z">
+        <seg>Pikänäppäinten käyttäminen käännösprosessin nopeuttamiseksi </seg>
       </tuv>
     </tu>
     <tu>
