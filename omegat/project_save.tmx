@@ -29742,6 +29742,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240410T124706Z" creationid="ainokaarsalo" creationdate="20240410T124706Z">
+        <seg>Omega T lataa sanakirjat ja kopio ne </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="PiaVee" changedate="20171014T154350Z" creationid="PiaVee" creationdate="20171014T154350Z">
