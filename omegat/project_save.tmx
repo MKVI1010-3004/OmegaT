@@ -30166,6 +30166,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once all that is done, the source files appear in OmegaT in a layout that looks like this:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135619Z" creationid="ainokaarsalo" creationdate="20240411T135619Z">
+        <seg>Kun kaikki tämä on tehty, lähdetiedosto ilmestyy OmegaT:hen seuraavalla tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191023T053429Z" creationid="piav" creationdate="20191023T053429Z">
