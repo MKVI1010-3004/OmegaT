@@ -16890,6 +16890,14 @@ Joissakin attribuuteissa on virheelliä arvoja.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the location of that space.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135146Z" creationid="ainokaarsalo" creationdate="20240411T135146Z">
+        <seg>Etsi kyseisen välin sijainti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T160549Z" creationid="piav" creationdate="20191022T160549Z">
@@ -18373,6 +18381,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go back to OmegaT and use &lt;l0/&gt;&lt;l1/&gt; to have OmegaT recognize the change.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135440Z" creationid="ainokaarsalo" creationdate="20240411T135440Z">
+        <seg>Siirry takaisin OmegaT:hen ja käytä&lt;l0/&gt;&lt;l1/&gt;, jotta OmegaT tunnistaa muutokset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191208T121350Z" creationid="piav" creationdate="20190920T135501Z">
@@ -18401,6 +18417,14 @@ mukana tullutta Kaptain-komentosarjaa (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151113Z" creationid="piav" creationdate="20230511T151113Z">
         <seg>Mene segmentin lähteeseen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the source file with &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135118Z" creationid="ainokaarsalo" creationdate="20240411T135052Z">
+        <seg>Siirry lähdetiedostoon näppäimellä&lt;l0/&gt;&lt;l1/&gt;. </seg>
       </tuv>
     </tu>
     <tu>
@@ -34300,6 +34324,14 @@ katosi sivu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace it with a non-breakable space.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135341Z" creationid="ainokaarsalo" creationdate="20240411T135313Z">
+        <seg>Korvaa se sitovalla välilyönnillä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace matches when inserting source text</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T171643Z" creationid="piav" creationdate="20230511T171643Z">
@@ -35360,6 +35392,14 @@ katosi sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230514T123241Z" creationid="piav" creationdate="20220821T081855Z">
         <seg>Tallenna käännöksen alkuperä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the file.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135347Z" creationid="ainokaarsalo" creationdate="20240411T135347Z">
+        <seg>Tallenna tiedosto.</seg>
       </tuv>
     </tu>
     <tu>
