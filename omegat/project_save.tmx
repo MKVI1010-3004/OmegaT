@@ -20367,6 +20367,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the project target language is &lt;e0&gt;fr&lt;/e0&gt; and the dictionary name is &lt;e1&gt;fr_fr&lt;/e1&gt; or &lt;e2&gt;fr-fr&lt;/e2&gt;, you can either:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T131523Z" creationid="ainokaarsalo" creationdate="20240411T131523Z">
+        <seg>Jos projektin kohdekieli on &lt;e0&gt;fr&lt;/e0&gt;ja sanakirjan nimi on &lt;e1&gt;fr_fr&lt;/e1&gt;tai&lt;e2&gt;fr-fr&lt;/e2&gt;voit joko:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191128T114231Z" creationid="piav" creationdate="20191128T114231Z">
@@ -32970,6 +32978,14 @@ projektin ilman ryhmäominaisuutta.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20221102T142012Z" creationid="piav" creationdate="20221102T142012Z">
         <seg>Projektikohtaiset asetukset löytyvät kohdasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project target language code and spellchecking dictionary name</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T131338Z" creationid="ainokaarsalo" creationdate="20240411T131338Z">
+        <seg>Projektin kohdekielen koodi ja oikeinkirjoituksen tarkistussanakirjan nimi</seg>
       </tuv>
     </tu>
     <tu>
