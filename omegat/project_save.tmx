@@ -36312,6 +36312,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l2/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T133325Z" creationid="ainokaarsalo" creationdate="20240411T133325Z">
+        <seg>Katso &lt;l2/&gt;lisätietoa projektin ominaisuudesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l2/&gt; section for details.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240409T221627Z" creationid="Tintin" creationdate="20240409T221627Z">
@@ -36564,6 +36572,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20221114T092806Z" creationid="pia" creationdate="20221114T092806Z">
         <seg>Muista tiedostoista löytyvät ja ominaisuuksiltaan samanlaiset segmentit käännetään samalla tavalla. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments within a paragraph can be further segmented, or "unsegmented" (merged).</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T133643Z" creationid="ainokaarsalo" creationdate="20240411T133643Z">
+        <seg>Kappaleiden segmentit voidaat segmentoida tai "poistaa segmentointi" (yhdistää).</seg>
       </tuv>
     </tu>
     <tu>
