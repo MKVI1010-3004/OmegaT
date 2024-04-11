@@ -12701,6 +12701,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default OmegaT layout on macOS</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T135831Z" creationid="ainokaarsalo" creationdate="20240411T135831Z">
+        <seg>OmegaT:n oletusasettelu macOS:ssa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default branch</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T181224Z" creationid="piav" creationdate="20220906T181224Z">
@@ -40424,6 +40432,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191127T125505Z" creationid="piav" creationdate="20191127T123345Z">
         <seg>Näppäinyhdistelmä &lt;k4&gt; &lt;k5&gt;vaihto&lt;/k5&gt; &lt;k6&gt;Ctrl &lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; vaihtaa kolmen tilan välillä:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; and &lt;l1/&gt; panes are docked</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T140015Z" creationid="ainokaarsalo" creationdate="20240411T135903Z">
+        <seg>&lt;l0/&gt;ja&lt;l1/&gt;ruudut ovat kiinnitetty.</seg>
       </tuv>
     </tu>
     <tu>
