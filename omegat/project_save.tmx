@@ -40484,6 +40484,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane is where you type your translation.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T140519Z" creationid="ainokaarsalo" creationdate="20240411T140519Z">
+        <seg>&lt;l0/&gt;ruudulla kirjoitat käännöksesi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T114058Z" creationid="Hanne" creationdate="20240307T114058Z">
