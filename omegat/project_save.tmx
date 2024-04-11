@@ -6210,8 +6210,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>Add a segmentation rule to further segment them, or an exception rule to merge them with the part they were split from.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134510Z" creationid="ainokaarsalo" creationdate="20240411T134510Z">
-        <seg>Lisää segmentointisääntö edelleen segmentoimista varten tai poikkeussääntö, jolla voit yhdistää ne siihen osaan, josta ne erotettiin.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134536Z" creationid="ainokaarsalo" creationdate="20240411T134510Z">
+        <seg>Lisää segmentointisääntö edelleen segmentoimista varten tai poikkeussääntö, jolla voit yhdistää segmentit siihen osaan, josta ne erotettiin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40404,6 +40404,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; pane</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134624Z" creationid="ainokaarsalo" creationdate="20240411T134624Z">
+        <seg>&lt;l0/&gt;ruutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T114058Z" creationid="Hanne" creationdate="20240307T114058Z">
@@ -43393,6 +43401,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20220906T184414Z" creationid="piav" creationdate="20220906T184324Z">
         <seg>Oikeinkirjoituksen tarkistus tunnistaa käytettävän sanakirjan kohdekielen kielikoodin perusteella. Jos kohdekielenä on esimerksi brasilianportugali PT_BR, sanakirjojen alikansiossa on oltava kaksi vastaavaa sanakirjatiedostoa, &lt;f0&gt;pt_br.aff&lt;/f0&gt; ja &lt;f1&gt;pt_br.dic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The standard space character is often used as a segment boundary.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134800Z" creationid="ainokaarsalo" creationdate="20240411T134800Z">
+        <seg>Standardiversiota välilyöntinäppäimestä käytetään usein segmentin rajan.</seg>
       </tuv>
     </tu>
     <tu>
