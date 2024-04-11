@@ -10360,6 +10360,14 @@ bittiavaruus.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Close&lt;/g0&gt; button.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T130313Z" creationid="ainokaarsalo" creationdate="20240411T130313Z">
+        <seg>Napsauta &lt;g0&gt;Sulje&lt;/g0&gt;painiketta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T143026Z" creationid="piav" creationdate="20191202T143026Z">
@@ -29054,6 +29062,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T131217Z" creationid="ainokaarsalo" creationdate="20240411T130328Z">
+        <seg>Omega T ei tunnista kieliä automaattisesti ja käyttää vain sanakirjoja, joiden nimi vastaa kohdekielen koodia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T191111Z" creationid="pia" creationdate="20240213T191111Z">
@@ -29738,6 +29754,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T150233Z" creationid="piav" creationdate="20230511T150233Z">
         <seg>OmegaT:llä ei ole pääsyä järjestelmäominaisuuteen, jossa on käyttöjärjestelmäsi nimi ja/tai kotikansiosi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will display a list of the installed dictionaries.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T130224Z" creationid="ainokaarsalo" creationdate="20240411T130224Z">
+        <seg>OmegaT näyttää listan asennetuista sanakirjoista.</seg>
       </tuv>
     </tu>
     <tu>
