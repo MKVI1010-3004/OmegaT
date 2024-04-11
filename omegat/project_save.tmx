@@ -6208,6 +6208,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add a segmentation rule to further segment them, or an exception rule to merge them with the part they were split from.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134510Z" creationid="ainokaarsalo" creationdate="20240411T134510Z">
+        <seg>Lisää segmentointisääntö edelleen segmentoimista varten tai poikkeussääntö, jolla voit yhdistää ne siihen osaan, josta ne erotettiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T080031Z" creationid="piav" creationdate="20190522T074831Z">
@@ -36578,8 +36586,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>Segments within a paragraph can be further segmented, or "unsegmented" (merged).</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T133725Z" creationid="ainokaarsalo" creationdate="20240411T133643Z">
-        <seg>Kappaleiden segmentit voidaan vielä segmentoida tai "poistaa segmentointi" (yhdistää).</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134230Z" creationid="ainokaarsalo" creationdate="20240411T133643Z">
+        <seg>Kappaleiden sisällä olevat segmentit voidaan edelleen segmentoida tai yhdistää.</seg>
       </tuv>
     </tu>
     <tu>
