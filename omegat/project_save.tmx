@@ -48896,6 +48896,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; menu to manage translation memory matches and perform other various useful functions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T104854Z" creationid="ainokaarsalo" creationdate="20240412T104854Z">
+        <seg>Käytä &lt;l0/&gt;valikkoa hallitaksesi käännösmuistien osumia ja tee muita hyödyllisiä toimintoja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0/&gt; option to perform various checks on the contents of your translation.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240408T184952Z" creationid="Tintin" creationdate="20240408T184952Z">
