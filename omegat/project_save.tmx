@@ -20295,6 +20295,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110712Z" creationid="ainokaarsalo" creationdate="20240412T110503Z">
+        <seg>Jos käännettävissä dokumenteissa käytetään lihavointia, kursivointia tai muita koristeellisia elementtejä, OmegaT muuttaa elementit  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191022T072856Z" creationid="piav" creationdate="20191022T072745Z">
@@ -40576,6 +40584,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T120320Z" creationid="piav" creationdate="20191201T120320Z">
         <seg>Argumentti &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; saa &lt;a2&gt;OmegaT&lt;/a2&gt;:n käyttämään käyttöjärjestelmän kielen sijasta määriteltyä kieltä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l1/&gt; is also available in the Editor pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110422Z" creationid="ainokaarsalo" creationdate="20240412T110422Z">
+        <seg>&lt;l1/&gt;on myös saatavilla Editori-ruudussa.</seg>
       </tuv>
     </tu>
     <tu>
