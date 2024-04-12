@@ -12941,6 +12941,14 @@ onko sinun tehtävä vielä muuta.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the original format, OmegaT, however, will present this sentence in a fashion similar to this one:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T111915Z" creationid="ainokaarsalo" creationdate="20240412T111915Z">
+        <seg>Riippuen alkuperäisestä muodosta, OmegaT näyttää tämän lauseen seuraavan kaltaisella tavalla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T133143Z" creationid="piav" creationdate="20191203T133143Z">
