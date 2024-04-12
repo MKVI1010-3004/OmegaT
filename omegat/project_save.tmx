@@ -50154,8 +50154,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103930Z" creationid="ainokaarsalo" creationdate="20240412T103930Z">
-        <seg>Kun syötät segmentin, joka o</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T104747Z" creationid="ainokaarsalo" creationdate="20240412T103930Z">
+        <seg>Kun menet segmenttin, joka vastaa osaa projektin käännösmuistien sisällöstä, OmegaT näyttää osumat&lt;l0/&gt;ruudussa.</seg>
       </tuv>
     </tu>
     <tu>
