@@ -50146,8 +50146,16 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When you enter a segment containing terms that match entries in your glossaries, those terms and their translations are displayed in the &lt;l0/&gt; pane.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103740Z" creationid="ainokaarsalo" creationdate="20240412T103740Z">
-        <seg>Kun syötät segementin, joka sisältää sanastosi osumiin sopivia termejä, termit sekä niiden käännökset näkyvät &lt;l0/&gt;ruudussa.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103947Z" creationid="ainokaarsalo" creationdate="20240412T103740Z">
+        <seg>Kun menet segementtiin, joka sisältää sanastosi osumiin sopivia termejä, termit sekä niiden käännökset näkyvät &lt;l0/&gt;ruudussa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you enter a segment that matches part of the content of the project translation memories, OmegaT displays the matches in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103930Z" creationid="ainokaarsalo" creationdate="20240412T103930Z">
+        <seg>Kun syötät segmentin, joka o</seg>
       </tuv>
     </tu>
     <tu>
