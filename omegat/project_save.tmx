@@ -40516,6 +40516,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; gives easy access to various frequently used functions.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110401Z" creationid="ainokaarsalo" creationdate="20240412T110401Z">
+        <seg>&lt;l0/&gt;avulla pääset helposti käsiksi usein käytettyihin toimintoihin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane</seg>
       </tuv>
       <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134624Z" creationid="ainokaarsalo" creationdate="20240411T134624Z">
@@ -51581,8 +51589,8 @@ sarjaa linux-install.sh.</seg>
       <tuv lang="en">
         <seg>You can leave notes to yourself or team members in the &lt;l0/&gt; pane while you translate, and go back to annotated segments with &lt;l1/&gt; or &lt;l2/&gt; in the &lt;l3/&gt; menu, or from the &lt;l4/&gt; window.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110100Z" creationid="ainokaarsalo" creationdate="20240412T110027Z">
-        <seg>Voit jättää muistiinpanoja itsellesi tai tiimis </seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110319Z" creationid="ainokaarsalo" creationdate="20240412T110027Z">
+        <seg>Voit jättää muistiinpanoja itsellesi tai ryhmän jäsenille &lt;l0/&gt;ruudussa samalla kun käännät ja palata kommentoituihin segmentteihin &lt;l1/&gt;tai&lt;l2/&gt;&lt;l3/&gt;valikosta, tai &lt;l4/&gt;ikkunasta.  </seg>
       </tuv>
     </tu>
     <tu>
