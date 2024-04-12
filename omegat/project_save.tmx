@@ -36536,6 +36536,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the following options and scripts for details:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112337Z" creationid="ainokaarsalo" creationdate="20240412T112306Z">
+        <seg>Katso seuraavat vaihtoehdot ja komentosarjat yksityiskohtia varten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the user manual for instructions.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20230511T151300Z" creationid="piav" creationdate="20230511T151232Z">
@@ -43653,6 +43661,14 @@ xx tai xxx on kielitunnus ja YY alueen tai maan koodi (valinnainen). </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tags in OmegaT are grayed, making them easy to recognize.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112433Z" creationid="ainokaarsalo" creationdate="20240412T112433Z">
+        <seg>OmegaT:n tägit ovat harmaalla, jotta ne ovat helppoja tunnistaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T145203Z" creationid="piav" creationdate="20191202T114230Z">
@@ -44398,6 +44414,14 @@ kadonnut sivu.</seg>
       </tuv>
       <tuv lang="fi" changeid="Hanne" changedate="20240307T112859Z" creationid="Hanne" creationdate="20240307T112859Z">
         <seg>Elementit näytetään siten, että niiden käyttötarkoitus on helppo huomata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112604Z" creationid="ainokaarsalo" creationdate="20240412T112604Z">
+        <seg>Ne on suojattu, jotta et voi muuttaa niiden sisältöä, mutta voit poistaa ne, kirjoittaa ne käsin tai siirtää niitä kohdelauseessa.</seg>
       </tuv>
     </tu>
     <tu>
