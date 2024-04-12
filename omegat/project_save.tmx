@@ -40508,6 +40508,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0/&gt; function lets you search the entire project for terms, sentence fragments, and so on, using exact, keyword, or regular expression searches.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T105147Z" creationid="ainokaarsalo" creationdate="20240412T105006Z">
+        <seg>&lt;l0/&gt;toiminnolla pääset etsimään termejä koko projektista, lauseen pätkiä ja niin edelleen, käyttämällä täsmä-, näppäimistö-, tai tavallist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0/&gt; pane</seg>
       </tuv>
       <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T134624Z" creationid="ainokaarsalo" creationdate="20240411T134624Z">
