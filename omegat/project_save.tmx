@@ -29086,6 +29086,14 @@ Apit-kansioon.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not assign different statuses to translated segments.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T101115Z" creationid="ainokaarsalo" creationdate="20240412T101115Z">
+        <seg>OmegaT ei määritä eri statuksia käännetyille segmenteille.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
       </tuv>
       <tuv lang="fi" changeid="pia" changedate="20240213T185712Z" creationid="pia" creationdate="20240213T185712Z">
@@ -36316,6 +36324,14 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20231030T202200Z" creationid="piav" creationdate="20231030T202200Z">
         <seg>Yksityiskohtaiset tee-näin-ohjeet löytyvät kohdasta &lt;l0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; menu for more navigation options.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T101008Z" creationid="ainokaarsalo" creationdate="20240412T100941Z">
+        <seg>Katso &lt;l0/&gt;valikosta lisää navigointivaihtoehtoja.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50098,8 +50114,8 @@ JRE:n valitsemiselta, hankinnalta ja asennukselta.</seg>
       <tuv lang="en">
         <seg>When you leave the segment, its translation is automatically stored into the &lt;l0/&gt; file and will be used as reference for the rest of your translation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T100116Z" creationid="ainokaarsalo" creationdate="20240412T100116Z">
-        <seg>Kun siirryt eteenpäin segmentistä, sen käännös tallentuu automaattisesti &lt;l0/&gt;tiedostoon ja se toimii </seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T100842Z" creationid="ainokaarsalo" creationdate="20240412T100116Z">
+        <seg>Kun siirryt eteenpäin segmentistä, sen käännös tallentuu automaattisesti &lt;l0/&gt;tiedostoon ja se toimii apukäännösmuistina koko käännöksesi ajan.</seg>
       </tuv>
     </tu>
     <tu>
