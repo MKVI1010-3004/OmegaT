@@ -48664,6 +48664,14 @@ Nykyinen asetus on {0} MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt; &lt;l1/&gt; and &lt;l2/&gt; to insert the tags at the cursor location.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112728Z" creationid="ainokaarsalo" creationdate="20240412T112633Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;ja&lt;l2/&gt;lisätäksesi tägit kursorin kohdalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt; &lt;l1/&gt; to check your tags before you generate your translated files.</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240408T183518Z" creationid="Tintin" creationdate="20240408T183518Z">
@@ -51578,6 +51586,14 @@ käynnistysvalikkoon, työpöydälle tai pikakäynnistysalueelle.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191030T144543Z" creationid="piav" creationdate="20191030T144543Z">
         <seg>Voit olla kääntämättä tällaisia segmenttejä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define custom tags that will be managed in the same manner.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112802Z" creationid="ainokaarsalo" creationdate="20240412T112802Z">
+        <seg>Voit määrittää </seg>
       </tuv>
     </tu>
     <tu>
