@@ -20297,8 +20297,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the documents you translate use bold, italics, or other decorative elements, OmegaT will convert those elements into tags that enclose the decorated text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110712Z" creationid="ainokaarsalo" creationdate="20240412T110503Z">
-        <seg>Jos käännettävissä dokumenteissa käytetään lihavointia, kursivointia tai muita koristeellisia elementtejä, OmegaT muuttaa elementit  </seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T110810Z" creationid="ainokaarsalo" creationdate="20240412T110503Z">
+        <seg>Jos käännettävissä dokumenteissa käytetään lihavointia, kursivointia tai muita koristeellisia elementtejä, OmegaT muuttaa elementit tägeiksi, jotka ympäröivät koristeellisen teksin. </seg>
       </tuv>
     </tu>
     <tu>
@@ -39227,6 +39227,14 @@ takaisin samaan kansioon tai sen alikansioon.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191212T080111Z" creationid="piav" creationdate="20191212T080111Z">
         <seg>Käännösmuisteja voidaan luoda yhdellä kolmesta yllä mainitusta tavasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such files include LibreOffice files, HTML files an Microsoft Office files for example.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T111000Z" creationid="ainokaarsalo" creationdate="20240412T110927Z">
+        <seg>Näihin tiedostoihin kuuluvat esimerkiksi LibreOffice-tiedostot, HTML-tiedostot sekä Microsoft Office -tiedostot. </seg>
       </tuv>
     </tu>
     <tu>
