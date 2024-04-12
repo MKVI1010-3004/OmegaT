@@ -51356,8 +51356,8 @@ sitten suorittaa Kaptain-käynnistyskomentosarjan painamalla</seg>
       <tuv lang="en">
         <seg>You can also define strings that OmegaT should warn you about if you leave them in a translation.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T113001Z" creationid="ainokaarsalo" creationdate="20240412T113001Z">
-        <seg>Voit lisäksi määritellä komentosarjat, joiden mukaan OmegaT varoittaa</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T113145Z" creationid="ainokaarsalo" creationdate="20240412T113001Z">
+        <seg>Voit lisäksi määritellä komentosarjat, joista OmegaT varoittaa, jos niitä jää käännökseen.</seg>
       </tuv>
     </tu>
     <tu>
