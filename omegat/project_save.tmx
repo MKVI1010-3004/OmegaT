@@ -5640,6 +5640,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A sentence might look like this in its original application:</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T111435Z" creationid="ainokaarsalo" creationdate="20240412T111322Z">
+        <seg>Lause voi näyttää tältä alkuperäisessä sovelluksessa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A shortcut based workflow</seg>
       </tuv>
       <tuv lang="fi" changeid="Tintin" changedate="20240409T235805Z" creationid="Tintin" creationdate="20240409T222048Z">
@@ -29431,6 +29439,14 @@ resursseineen käännösprojekteiksi, joita on helppo hallita ja päivittää.</
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191203T141355Z" creationid="piav" creationdate="20191203T141355Z">
         <seg>OmegaT pystyy tallentamaan käännössegmenttejä, jotka ovat samoja kuin lähdeteksti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an &lt;e0&gt;easy-to-use&lt;/e0&gt; program for &lt;e1&gt;eager&lt;/e1&gt; translators</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T111635Z" creationid="ainokaarsalo" creationdate="20240412T111635Z">
+        <seg>OmegaT on &lt;e0&gt;helppokäyttöinen&lt;/e0&gt;ohjelma &lt;e1&gt;kiinnostaville&lt;/e1&gt;käännöksille.</seg>
       </tuv>
     </tu>
     <tu>
