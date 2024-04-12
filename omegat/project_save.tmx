@@ -6256,6 +6256,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add reminders in the &lt;l0/&gt; pane for problematic segments</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T101345Z" creationid="ainokaarsalo" creationdate="20240412T101345Z">
+        <seg>Lisää muistutuksia &lt;l0/&gt;ruutuun segmentteihin, joissa on ongelmakohtia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191210T171026Z" creationid="piav" creationdate="20191210T171026Z">
@@ -21022,8 +21030,8 @@ avulla.</seg>
       <tuv lang="en">
         <seg>If you need a specific review process you can, for example:</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240403T123624Z" creationid="ainokaarsalo" creationdate="20240403T123624Z">
-        <seg>Jos </seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T101237Z" creationid="ainokaarsalo" creationdate="20240403T123624Z">
+        <seg>Jos tarvitset tiettyä tarkistusprosessia, voit esimerkiksi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48588,6 +48596,14 @@ Nykyinen asetus on {0} MB;</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20240215T125500Z" creationid="piav" creationdate="20240215T125500Z">
         <seg>Saat lisättyä uusia termejä tälle sanalistalle komennolla &lt;l0/&gt;&lt;l1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter the Notepad and add your remark.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T103201Z" creationid="ainokaarsalo" creationdate="20240412T103201Z">
+        <seg>Käytä &lt;l0/&gt;&lt;l1/&gt;päästäksesi Notepadiin ja lisätäksesi huomautuksen.</seg>
       </tuv>
     </tu>
     <tu>
