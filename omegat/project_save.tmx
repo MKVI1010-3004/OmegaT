@@ -6536,6 +6536,14 @@ Nykyinen asetus on {0} MB.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After you have typed the translation of a segment, use &lt;l0/&gt;&lt;l1/&gt; to move to the next untranslated segment.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T095553Z" creationid="ainokaarsalo" creationdate="20240412T095553Z">
+        <seg>Sen jälkeen, kun olet kirjoittanut segmentin käännöksen, käytä &lt;l0/&gt;&lt;l1/&gt;siirtyäksesi seuraavaan segmenttiin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191201T132058Z" creationid="piav" creationdate="20191201T132058Z">
@@ -46388,6 +46396,14 @@ asetukset oletusarvoihinsa.</seg>
       </tuv>
       <tuv lang="fi" changeid="piav" changedate="20191202T115616Z" creationid="piav" creationdate="20191202T115253Z">
         <seg>Näppäinyhdistelmä &lt;k2&gt;Ctrl+L&lt;/k2&gt; avaa &lt;g1&gt;Projektin tiedostot&lt;/g1&gt;-valintaikkunan, josta näet luettelon projektin tiedostoista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see how efficient you can be with shortcuts, see the &lt;l0/&gt; section.</seg>
+      </tuv>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T094534Z" creationid="ainokaarsalo" creationdate="20240412T094534Z">
+        <seg> &lt;&lt;l0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
