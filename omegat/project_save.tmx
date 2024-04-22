@@ -29896,8 +29896,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175112Z" creationid="ainokaarsalo" creationdate="20240410T124706Z">
-        <seg>OmegaT lataa sanakirjat ja kopio ne oikeinkirjoituksen sanakirjoihin, joiden sijainti on määritetty valintaikkunan yläosassa (</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175239Z" creationid="ainokaarsalo" creationdate="20240410T124706Z">
+        <seg>OmegaT lataa sanakirjat ja kopio ne oikeinkirjoituksen sanakirjoihin, joiden sijainti on määritetty valintaikkunan yläosassa (oletusarvoisesti &lt;l1&gt;määrityskansio&lt;/l1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
