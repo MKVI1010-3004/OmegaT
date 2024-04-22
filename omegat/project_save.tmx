@@ -44420,8 +44420,8 @@ kadonnut sivu.</seg>
       <tuv lang="en">
         <seg>They are protected to prevent you from modifying their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240412T112604Z" creationid="ainokaarsalo" creationdate="20240412T112604Z">
-        <seg>Ne on suojattu, jotta et voi muuttaa niiden sisältöä, mutta voit poistaa ne, kirjoittaa ne käsin tai siirtää niitä kohdelauseessa.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T173225Z" creationid="ainokaarsalo" creationdate="20240412T112604Z">
+        <seg>Ne ovat suojattuja, jotta et voi muuttaa niiden sisältöä, mutta voit poistaa ne, kirjoittaa ne käsin tai siirtää niitä kohdelauseessa.</seg>
       </tuv>
     </tu>
     <tu>
