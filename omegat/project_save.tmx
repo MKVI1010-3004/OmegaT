@@ -36426,8 +36426,8 @@ Haku on oletusarvoisesti koko projektin laajuinen. Voit asettaa haun koskemaan k
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; section for details.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Hanne" changedate="20240307T120005Z" creationid="Hanne" creationdate="20240307T115952Z">
-        <seg>Lue lisää &lt;l0/&gt; Yksityiskohdat-osiosta.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T173905Z" creationid="Hanne" creationdate="20240307T115952Z">
+        <seg>Lisätietoa löydät &lt;l1/&gt; osiosta.</seg>
       </tuv>
     </tu>
     <tu>
