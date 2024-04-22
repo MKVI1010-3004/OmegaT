@@ -29176,8 +29176,8 @@ Apit-kansioon.</seg>
       <tuv lang="en">
         <seg>OmegaT does not recognize languages automatically, and only uses a dictionary if its name matches the target language code.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T131217Z" creationid="ainokaarsalo" creationdate="20240411T130328Z">
-        <seg>Omega T ei tunnista kieliä automaattisesti ja käyttää vain sanakirjoja, joiden nimi vastaa kohdekielen koodia.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175523Z" creationid="ainokaarsalo" creationdate="20240411T130328Z">
+        <seg>OmegaT ei tunnista kieliä automaattisesti ja käyttää vain sanakirjoja, joiden nimi vastaa kohdekielen koodia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29896,8 +29896,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>OmegaT will download them and copy them to the spellchecking dictionaries location specified at the top of the dialog (the &lt;l1&gt;configuration&lt;/l1&gt; folder by default).</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175239Z" creationid="ainokaarsalo" creationdate="20240410T124706Z">
-        <seg>OmegaT lataa sanakirjat ja kopio ne oikeinkirjoituksen sanakirjoihin, joiden sijainti on määritetty valintaikkunan yläosassa (oletusarvoisesti &lt;l1&gt;määrityskansio&lt;/l1&gt;).</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175516Z" creationid="ainokaarsalo" creationdate="20240410T124706Z">
+        <seg>OmegaT lataa ja kopio ne oikeinkirjoituksen sanakirjoihin, joiden sijainti on määritetty valintaikkunan yläosassa (oletusarvoisesti &lt;l1&gt;määrityskansio&lt;/l1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -41621,8 +41621,8 @@ nykyinen kansio.</seg>
       <tuv lang="en">
         <seg>The default setting for a translation project is to create &lt;e0&gt;sentences&lt;/e0&gt; by splitting the &lt;e1&gt;paragraph blocks&lt;/e1&gt; found in the document.</seg>
       </tuv>
-      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240411T133230Z" creationid="ainokaarsalo" creationdate="20240411T133230Z">
-        <seg>Oletusasetus käännösprojektille on luoda&lt;e0&gt;lauseita&lt;/e0&gt;jakamalla&lt;e1&gt;kappaleet jaksoiksi&lt;/e1&gt;, jotka löytyvät dokumentista.</seg>
+      <tuv lang="fi" changeid="ainokaarsalo" changedate="20240422T175542Z" creationid="ainokaarsalo" creationdate="20240411T133230Z">
+        <seg>Oletusasetus käännösprojektille on luoda&lt;e0&gt;lauseita&lt;/e0&gt;jakamalla&lt;e1&gt;kappaleet jaksoiksi&lt;/e1&gt;, jotka löytyvät asiakirjasta.</seg>
       </tuv>
     </tu>
     <tu>
