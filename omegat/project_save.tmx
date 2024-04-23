@@ -5650,8 +5650,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>A shortcut based workflow</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T235805Z" creationid="Tintin" creationdate="20240409T222048Z">
-        <seg>Pikanäppäimiin perustuva työskulku </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T222112Z" creationid="Tintin" creationdate="20240409T222048Z">
+        <seg>Pikanäppäimiin perustuva työnkulku </seg>
       </tuv>
     </tu>
     <tu>
