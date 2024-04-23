@@ -15710,8 +15710,8 @@ kukaan ei kuule.</seg>
       <tuv lang="en">
         <seg>Every time you create the translated files (see &lt;l0/&gt;, above), OmegaT creates three translation memories that contain the state of the translation of the files currently in the &lt;l1/&gt; folder.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T221520Z" creationid="Tintin" creationdate="20240408T205518Z">
-        <seg>Aina kun luot käännettyjä tiedostoja (katso &lt;l0/&gt;), OmegaT luo kolme käännösmuistia, jotka sisältävät kansiossa olevien tiedostojen käännöksien tilan perusteella. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T222859Z" creationid="Tintin" creationdate="20240408T205518Z">
+        <seg>Aina kun luot käännettyjä tiedostoja (katso &lt;l0/&gt;), OmegaT luo &lt;l1/&gt; kansiossa olevien tiedostojen käännöksien tilan perusteella kolme käännösmuistia. </seg>
       </tuv>
     </tu>
     <tu>
