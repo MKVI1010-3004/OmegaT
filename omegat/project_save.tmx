@@ -22873,8 +22873,8 @@ kaksoisnapsauta sitä.</seg>
       <tuv lang="en">
         <seg>Instead of reaching for the mouse, you unlock the cursor with &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, use the cursor keys and standard system shortcuts to navigate to the term and select it, and then press &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;call up the glossary entry dialog&lt;/l6&gt; to enter the source term.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T235355Z" creationid="Tintin" creationdate="20240409T225256Z">
-        <seg>Sen sijaan, että käyttäisit hiirtä, vapautat kohdistimen painamalla &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, käytät nuolinäppäimiä ja järjestelmän vakiopikanäppäimiä valitaksesi termin ja painat &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt; to &lt;l6&gt;tuodaksesi esiin sanalistan termin lisäystoiminton.&lt;/l6&gt; lisätäksesi lähdetermin sanalistaan.</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T223222Z" creationid="Tintin" creationdate="20240409T225256Z">
+        <seg>Sen sijaan, että käyttäisit hiirtä, vapautat kohdistimen painamalla &lt;l0&gt;&lt;k1&gt;F2&lt;/k1&gt;&lt;/l0&gt;, käytät nuolinäppäimiä ja järjestelmän vakiopikanäppäimiä valitaksesi termin ja painat &lt;k2&gt;&lt;k3&gt;C&lt;/k3&gt;&lt;k4&gt;S&lt;/k4&gt;&lt;k5&gt;G&lt;/k5&gt;&lt;/k2&gt;  &lt;l6&gt;tuodaksesi esiin sanalistan termin lisäystoiminton.&lt;/l6&gt; lisätäksesi lähdetermin sanalistaan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31708,8 +31708,8 @@ Lähdetään kalaan.</seg>
       <tuv lang="en">
         <seg>Picture yourself tasked with translating an updated version of a manual from a previous job.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T235915Z" creationid="Tintin" creationdate="20240409T222906Z">
-        <seg>Kuvittele, ette sinulle on annettu tehtäväksi kääntää edellisessä projektissa käännetyn manuaalin päivitetty versio. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T222957Z" creationid="Tintin" creationdate="20240409T222906Z">
+        <seg>Kuvittele, että sinulle on annettu tehtäväksi kääntää edellisessä projektissa käännetyn manuaalin päivitetty versio. </seg>
       </tuv>
     </tu>
     <tu>
