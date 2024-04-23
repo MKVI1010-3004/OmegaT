@@ -34846,8 +34846,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Return to OmegaT, check your document for tag issues and recreate the translated file.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240408T183829Z" creationid="Tintin" creationdate="20240408T183829Z">
-        <seg>Palaa OmegaT-sovellukseen, tarkista documentin tägit ja luo käännetty tiedosto uudelleen.</seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T222514Z" creationid="Tintin" creationdate="20240408T183829Z">
+        <seg>Palaa OmegaT-sovellukseen, tarkista asiakirjan tägit ja luo käännetty tiedosto uudelleen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41757,8 +41757,8 @@ nykyinen kansio.</seg>
       <tuv lang="en">
         <seg>The documents are created in the &lt;l0/&gt; folder of your project.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240408T192437Z" creationid="Tintin" creationdate="20240408T192410Z">
-        <seg>Dokumentit luodaan projektisi &lt;l0/&gt; kansiossa. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T222527Z" creationid="Tintin" creationdate="20240408T192410Z">
+        <seg>Asiakirjat luodaan projektisi &lt;l0/&gt; kansiossa. </seg>
       </tuv>
     </tu>
     <tu>
