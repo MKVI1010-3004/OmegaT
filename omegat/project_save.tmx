@@ -6482,8 +6482,8 @@ Nykyinen asetus on {0} MB.</seg>
       <tuv lang="en">
         <seg>After quickly tapping &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; to insert the match, you make the necessary changes to match the revised text.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T230529Z" creationid="Tintin" creationdate="20240409T230529Z">
-        <seg>Painamalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; lisätäksesi kohdistuksen, teet tarpeelliset muutokset kohdistaaksesi tarkistetun tekstin. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T223407Z" creationid="Tintin" creationdate="20240409T230529Z">
+        <seg>Painamalla &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;I&lt;/k2&gt;&lt;/k0&gt; lisätäksesi osuman, teet tarpeelliset muutokset kohdistaaksesi tarkistetun tekstin. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33420,8 +33420,8 @@ katosi sivu.</seg>
       <tuv lang="en">
         <seg>Rather than tediously scroll down until you find the first segment to translate, you quickly press &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;jump straight into the action&lt;/l3&gt; and start translating.</seg>
       </tuv>
-      <tuv lang="fi" changeid="Tintin" changedate="20240409T223852Z" creationid="Tintin" creationdate="20240409T223852Z">
-        <seg>Sen sijaan, että vaivalloisesti skrollaisit ensimmäiseen käännettävään segmenttiin, painatkin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; to &lt;l3&gt;ja päädyt suoraan tähän segmenttiin&lt;/l3&gt; ja alat kääntämään. </seg>
+      <tuv lang="fi" changeid="Tintin" changedate="20240423T223232Z" creationid="Tintin" creationdate="20240409T223852Z">
+        <seg>Sen sijaan, että vaivalloisesti skrollaisit ensimmäiseen käännettävään segmenttiin, painatkin &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;U&lt;/k2&gt;&lt;/k0&gt; &lt;l3&gt;ja päädyt suoraan tähän segmenttiin&lt;/l3&gt; ja alat kääntämään. </seg>
       </tuv>
     </tu>
     <tu>
